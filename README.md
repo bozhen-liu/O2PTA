@@ -78,3 +78,21 @@ make
 ```
 the main.ll file is the whole program llvm IR file
 
+## UPDATE (Option 2) Local Installation on ubuntu
+
+Build LLVM-9.0.0 locally. Then run the following from the ASER-PTA root directory
+
+```bash
+# Set this to the directory containing the LLVMConfig.cmake file from your local LLVM-9.0 install
+export LLVM_DIR=/usr/local/lib/cmake/llvm 
+export CXX=/usr/local/bin/clang++ 
+export CC=/usr/local/bin/clang 
+
+mkdir build && cd build
+cmake \
+    -DLLVM_DIR=$LLVM_DIR \
+    -DCMAKE_C_COMPILER=$CC \
+    -DCMAKE_CXX_COMPILER=$CXX \
+    ..
+make -j $(nproc)
+```
