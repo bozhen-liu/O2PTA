@@ -146,14 +146,14 @@ int main(int argc, char** argv) {
 
 //    passes.add(new PointerAnalysisPass<WaveSolver>());
 //    passes.add(new PTADriverPass<WaveSolver>);
-    passes.add(new PointerAnalysisPass<NoCtxSolver>());
+    passes.add(new PointerAnalysisPass<NoCtxSolver>()); //context-insensitivity
     passes.add(new PTADriverPass<NoCtxSolver>);
 
-    passes.add(new PointerAnalysisPass<OriginSolver>());
-    passes.add(new PTADriverPass<OriginSolver>);
+    // passes.add(new PointerAnalysisPass<OriginSolver>());
+    // passes.add(new PTADriverPass<OriginSolver>);
 
-    passes.add(new PointerAnalysisPass<CallsiteSolver>());
-    passes.add(new PTADriverPass<CallsiteSolver>);
+    // passes.add(new PointerAnalysisPass<CallsiteSolver>());
+    // passes.add(new PTADriverPass<CallsiteSolver>);
 
     passes.run(*module);
 
