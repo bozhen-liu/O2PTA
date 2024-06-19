@@ -1,5 +1,5 @@
-; ModuleID = 'ex4.cpp'
-source_filename = "ex4.cpp"
+; ModuleID = 'zipper_wrapped_class.cpp'
+source_filename = "zipper_wrapped_class.cpp"
 target datalayout = "e-m:e-i64:64-f80:128-n8:16:32:64-S128"
 target triple = "x86_64-unknown-linux-gnu"
 
@@ -29,7 +29,7 @@ $_ZN8IteratorINSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEEEC2ES5_ = comd
 @__dso_handle = external hidden global i8
 @.str = private unnamed_addr constant [2 x i8] c"A\00", align 1
 @.str.1 = private unnamed_addr constant [2 x i8] c"B\00", align 1
-@llvm.global_ctors = appending global [1 x { i32, void ()*, i8* }] [{ i32, void ()*, i8* } { i32 65535, void ()* @_GLOBAL__sub_I_ex4.cpp, i8* null }]
+@llvm.global_ctors = appending global [1 x { i32, void ()*, i8* }] [{ i32, void ()*, i8* } { i32 65535, void ()* @_GLOBAL__sub_I_zipper_wrapped_class.cpp, i8* null }]
 
 ; Function Attrs: noinline uwtable
 define internal void @__cxx_global_var_init() #0 section ".text.startup" {
@@ -352,7 +352,7 @@ define linkonce_odr dso_local void @_ZN8IteratorINSt7__cxx1112basic_stringIcSt11
 }
 
 ; Function Attrs: noinline uwtable
-define internal void @_GLOBAL__sub_I_ex4.cpp() #0 section ".text.startup" {
+define internal void @_GLOBAL__sub_I_zipper_wrapped_class.cpp() #0 section ".text.startup" {
   call void @__cxx_global_var_init()
   ret void
 }

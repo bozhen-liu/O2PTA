@@ -1,24 +1,9 @@
-; ModuleID = 'ex5.cpp'
-source_filename = "ex5.cpp"
+; ModuleID = 'zipper_unwrapped_class.cpp'
+source_filename = "zipper_unwrapped_class.cpp"
 target datalayout = "e-m:e-i64:64-f80:128-n8:16:32:64-S128"
 target triple = "x86_64-unknown-linux-gnu"
 
 %"class.std::ios_base::Init" = type { i8 }
-%"class.std::basic_ostream" = type { i32 (...)**, %"class.std::basic_ios" }
-%"class.std::basic_ios" = type { %"class.std::ios_base", %"class.std::basic_ostream"*, i8, i8, %"class.std::basic_streambuf"*, %"class.std::ctype"*, %"class.std::num_put"*, %"class.std::num_get"* }
-%"class.std::ios_base" = type { i32 (...)**, i64, i64, i32, i32, i32, %"struct.std::ios_base::_Callback_list"*, %"struct.std::ios_base::_Words", [8 x %"struct.std::ios_base::_Words"], i32, %"struct.std::ios_base::_Words"*, %"class.std::locale" }
-%"struct.std::ios_base::_Callback_list" = type { %"struct.std::ios_base::_Callback_list"*, void (i32, %"class.std::ios_base"*, i32)*, i32, i32 }
-%"struct.std::ios_base::_Words" = type { i8*, i64 }
-%"class.std::locale" = type { %"class.std::locale::_Impl"* }
-%"class.std::locale::_Impl" = type { i32, %"class.std::locale::facet"**, i64, %"class.std::locale::facet"**, i8** }
-%"class.std::locale::facet" = type <{ i32 (...)**, i32, [4 x i8] }>
-%"class.std::basic_streambuf" = type { i32 (...)**, i8*, i8*, i8*, i8*, i8*, i8*, %"class.std::locale" }
-%"class.std::ctype" = type <{ %"class.std::locale::facet.base", [4 x i8], %struct.__locale_struct*, i8, [7 x i8], i32*, i32*, i16*, i8, [256 x i8], [256 x i8], i8, [6 x i8] }>
-%"class.std::locale::facet.base" = type <{ i32 (...)**, i32 }>
-%struct.__locale_struct = type { [13 x %struct.__locale_data*], i16*, i32*, i32*, [13 x i8*] }
-%struct.__locale_data = type opaque
-%"class.std::num_put" = type { %"class.std::locale::facet.base", [4 x i8] }
-%"class.std::num_get" = type { %"class.std::locale::facet.base", [4 x i8] }
 %class.Box = type { %"class.std::__cxx11::basic_string" }
 %"class.std::__cxx11::basic_string" = type { %"struct.std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >::_Alloc_hider", i64, %union.anon }
 %"struct.std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >::_Alloc_hider" = type { i8* }
@@ -63,12 +48,9 @@ $__clang_call_terminate = comdat any
 @_ZStL8__ioinit = internal global %"class.std::ios_base::Init" zeroinitializer, align 1
 @__dso_handle = external hidden global i8
 @.str = private unnamed_addr constant [2 x i8] c"A\00", align 1
-@_ZSt4cout = external dso_local global %"class.std::basic_ostream", align 8
-@.str.1 = private unnamed_addr constant [9 x i8] c"Item 1: \00", align 1
-@.str.2 = private unnamed_addr constant [2 x i8] c"B\00", align 1
-@.str.3 = private unnamed_addr constant [9 x i8] c"Item 2: \00", align 1
+@.str.1 = private unnamed_addr constant [2 x i8] c"B\00", align 1
 @_ZZL18__gthread_active_pvE20__gthread_active_ptr = internal constant i8* bitcast (i32 (i32*, void (i8*)*)* @__pthread_key_create to i8*), align 8
-@llvm.global_ctors = appending global [1 x { i32, void ()*, i8* }] [{ i32, void ()*, i8* } { i32 65535, void ()* @_GLOBAL__sub_I_ex5.cpp, i8* null }]
+@llvm.global_ctors = appending global [1 x { i32, void ()*, i8* }] [{ i32, void ()*, i8* } { i32 65535, void ()* @_GLOBAL__sub_I_zipper_unwrapped_class.cpp, i8* null }]
 
 ; Function Attrs: noinline uwtable
 define internal void @__cxx_global_var_init() #0 section ".text.startup" {
@@ -105,76 +87,52 @@ define dso_local i32 @main() #4 personality i8* bitcast (i32 (...)* @__gxx_perso
   store i32 0, i32* %1, align 4
   call void @_ZNSaIcEC1Ev(%"class.std::allocator"* %4) #3
   invoke void @_ZNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEC1EPKcRKS3_(%"class.std::__cxx11::basic_string"* %3, i8* getelementptr inbounds ([2 x i8], [2 x i8]* @.str, i64 0, i64 0), %"class.std::allocator"* dereferenceable(1) %4)
-          to label %16 unwind label %39
+          to label %16 unwind label %27
 
 16:                                               ; preds = %0
   invoke void @_ZN3BoxINSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEEEC2ES5_(%class.Box* %2, %"class.std::__cxx11::basic_string"* %3)
-          to label %17 unwind label %43
+          to label %17 unwind label %31
 
 17:                                               ; preds = %16
   call void @_ZNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEED1Ev(%"class.std::__cxx11::basic_string"* %3) #3
   call void @_ZNSaIcED1Ev(%"class.std::allocator"* %4) #3
   invoke void @_ZN3BoxINSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEEEC2ERKS6_(%class.Box* %8, %class.Box* dereferenceable(32) %2)
-          to label %18 unwind label %48
+          to label %18 unwind label %36
 
 18:                                               ; preds = %17
   invoke void @_ZN7SyncBoxINSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEEEC2E3BoxIS5_E(%class.SyncBox* %7, %class.Box* %8)
-          to label %19 unwind label %52
+          to label %19 unwind label %40
 
 19:                                               ; preds = %18
   call void @_ZN3BoxINSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEEED2Ev(%class.Box* %8) #3
   invoke void @_ZN7SyncBoxINSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEEE7getItemEv(%"class.std::__cxx11::basic_string"* sret %9, %class.SyncBox* %7)
-          to label %20 unwind label %56
+          to label %20 unwind label %44
 
 20:                                               ; preds = %19
-  %21 = invoke dereferenceable(272) %"class.std::basic_ostream"* @_ZStlsISt11char_traitsIcEERSt13basic_ostreamIcT_ES5_PKc(%"class.std::basic_ostream"* dereferenceable(272) @_ZSt4cout, i8* getelementptr inbounds ([9 x i8], [9 x i8]* @.str.1, i64 0, i64 0))
-          to label %22 unwind label %60
-
-22:                                               ; preds = %20
-  %23 = invoke dereferenceable(272) %"class.std::basic_ostream"* @_ZStlsIcSt11char_traitsIcESaIcEERSt13basic_ostreamIT_T0_ES7_RKNSt7__cxx1112basic_stringIS4_S5_T1_EE(%"class.std::basic_ostream"* dereferenceable(272) %21, %"class.std::__cxx11::basic_string"* dereferenceable(32) %9)
-          to label %24 unwind label %60
-
-24:                                               ; preds = %22
-  %25 = invoke dereferenceable(272) %"class.std::basic_ostream"* @_ZNSolsEPFRSoS_E(%"class.std::basic_ostream"* %23, %"class.std::basic_ostream"* (%"class.std::basic_ostream"*)* @_ZSt4endlIcSt11char_traitsIcEERSt13basic_ostreamIT_T0_ES6_)
-          to label %26 unwind label %60
-
-26:                                               ; preds = %24
   call void @_ZNSaIcEC1Ev(%"class.std::allocator"* %12) #3
-  invoke void @_ZNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEC1EPKcRKS3_(%"class.std::__cxx11::basic_string"* %11, i8* getelementptr inbounds ([2 x i8], [2 x i8]* @.str.2, i64 0, i64 0), %"class.std::allocator"* dereferenceable(1) %12)
-          to label %27 unwind label %64
+  invoke void @_ZNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEC1EPKcRKS3_(%"class.std::__cxx11::basic_string"* %11, i8* getelementptr inbounds ([2 x i8], [2 x i8]* @.str.1, i64 0, i64 0), %"class.std::allocator"* dereferenceable(1) %12)
+          to label %21 unwind label %48
 
-27:                                               ; preds = %26
+21:                                               ; preds = %20
   invoke void @_ZN3BoxINSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEEEC2ES5_(%class.Box* %10, %"class.std::__cxx11::basic_string"* %11)
-          to label %28 unwind label %68
+          to label %22 unwind label %52
 
-28:                                               ; preds = %27
+22:                                               ; preds = %21
   call void @_ZNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEED1Ev(%"class.std::__cxx11::basic_string"* %11) #3
   call void @_ZNSaIcED1Ev(%"class.std::allocator"* %12) #3
   invoke void @_ZN3BoxINSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEEEC2ERKS6_(%class.Box* %14, %class.Box* dereferenceable(32) %10)
-          to label %29 unwind label %73
+          to label %23 unwind label %57
 
-29:                                               ; preds = %28
+23:                                               ; preds = %22
   invoke void @_ZN7SyncBoxINSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEEEC2E3BoxIS5_E(%class.SyncBox* %13, %class.Box* %14)
-          to label %30 unwind label %77
+          to label %24 unwind label %61
 
-30:                                               ; preds = %29
+24:                                               ; preds = %23
   call void @_ZN3BoxINSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEEED2Ev(%class.Box* %14) #3
   invoke void @_ZN7SyncBoxINSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEEE7getItemEv(%"class.std::__cxx11::basic_string"* sret %15, %class.SyncBox* %13)
-          to label %31 unwind label %81
+          to label %25 unwind label %65
 
-31:                                               ; preds = %30
-  %32 = invoke dereferenceable(272) %"class.std::basic_ostream"* @_ZStlsISt11char_traitsIcEERSt13basic_ostreamIcT_ES5_PKc(%"class.std::basic_ostream"* dereferenceable(272) @_ZSt4cout, i8* getelementptr inbounds ([9 x i8], [9 x i8]* @.str.3, i64 0, i64 0))
-          to label %33 unwind label %85
-
-33:                                               ; preds = %31
-  %34 = invoke dereferenceable(272) %"class.std::basic_ostream"* @_ZStlsIcSt11char_traitsIcESaIcEERSt13basic_ostreamIT_T0_ES7_RKNSt7__cxx1112basic_stringIS4_S5_T1_EE(%"class.std::basic_ostream"* dereferenceable(272) %32, %"class.std::__cxx11::basic_string"* dereferenceable(32) %15)
-          to label %35 unwind label %85
-
-35:                                               ; preds = %33
-  %36 = invoke dereferenceable(272) %"class.std::basic_ostream"* @_ZNSolsEPFRSoS_E(%"class.std::basic_ostream"* %34, %"class.std::basic_ostream"* (%"class.std::basic_ostream"*)* @_ZSt4endlIcSt11char_traitsIcEERSt13basic_ostreamIT_T0_ES6_)
-          to label %37 unwind label %85
-
-37:                                               ; preds = %35
+25:                                               ; preds = %24
   store i32 0, i32* %1, align 4
   call void @_ZNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEED1Ev(%"class.std::__cxx11::basic_string"* %15) #3
   call void @_ZN7SyncBoxINSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEEED2Ev(%class.SyncBox* %13) #3
@@ -182,156 +140,134 @@ define dso_local i32 @main() #4 personality i8* bitcast (i32 (...)* @__gxx_perso
   call void @_ZNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEED1Ev(%"class.std::__cxx11::basic_string"* %9) #3
   call void @_ZN7SyncBoxINSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEEED2Ev(%class.SyncBox* %7) #3
   call void @_ZN3BoxINSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEEED2Ev(%class.Box* %2) #3
-  %38 = load i32, i32* %1, align 4
-  ret i32 %38
+  %26 = load i32, i32* %1, align 4
+  ret i32 %26
 
-39:                                               ; preds = %0
-  %40 = landingpad { i8*, i32 }
+27:                                               ; preds = %0
+  %28 = landingpad { i8*, i32 }
           cleanup
-  %41 = extractvalue { i8*, i32 } %40, 0
-  store i8* %41, i8** %5, align 8
-  %42 = extractvalue { i8*, i32 } %40, 1
-  store i32 %42, i32* %6, align 4
-  br label %47
+  %29 = extractvalue { i8*, i32 } %28, 0
+  store i8* %29, i8** %5, align 8
+  %30 = extractvalue { i8*, i32 } %28, 1
+  store i32 %30, i32* %6, align 4
+  br label %35
 
-43:                                               ; preds = %16
-  %44 = landingpad { i8*, i32 }
+31:                                               ; preds = %16
+  %32 = landingpad { i8*, i32 }
           cleanup
-  %45 = extractvalue { i8*, i32 } %44, 0
-  store i8* %45, i8** %5, align 8
-  %46 = extractvalue { i8*, i32 } %44, 1
-  store i32 %46, i32* %6, align 4
+  %33 = extractvalue { i8*, i32 } %32, 0
+  store i8* %33, i8** %5, align 8
+  %34 = extractvalue { i8*, i32 } %32, 1
+  store i32 %34, i32* %6, align 4
   call void @_ZNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEED1Ev(%"class.std::__cxx11::basic_string"* %3) #3
-  br label %47
+  br label %35
 
-47:                                               ; preds = %43, %39
+35:                                               ; preds = %31, %27
   call void @_ZNSaIcED1Ev(%"class.std::allocator"* %4) #3
-  br label %94
+  br label %73
 
-48:                                               ; preds = %17
+36:                                               ; preds = %17
+  %37 = landingpad { i8*, i32 }
+          cleanup
+  %38 = extractvalue { i8*, i32 } %37, 0
+  store i8* %38, i8** %5, align 8
+  %39 = extractvalue { i8*, i32 } %37, 1
+  store i32 %39, i32* %6, align 4
+  br label %72
+
+40:                                               ; preds = %18
+  %41 = landingpad { i8*, i32 }
+          cleanup
+  %42 = extractvalue { i8*, i32 } %41, 0
+  store i8* %42, i8** %5, align 8
+  %43 = extractvalue { i8*, i32 } %41, 1
+  store i32 %43, i32* %6, align 4
+  call void @_ZN3BoxINSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEEED2Ev(%class.Box* %8) #3
+  br label %72
+
+44:                                               ; preds = %19
+  %45 = landingpad { i8*, i32 }
+          cleanup
+  %46 = extractvalue { i8*, i32 } %45, 0
+  store i8* %46, i8** %5, align 8
+  %47 = extractvalue { i8*, i32 } %45, 1
+  store i32 %47, i32* %6, align 4
+  br label %71
+
+48:                                               ; preds = %20
   %49 = landingpad { i8*, i32 }
           cleanup
   %50 = extractvalue { i8*, i32 } %49, 0
   store i8* %50, i8** %5, align 8
   %51 = extractvalue { i8*, i32 } %49, 1
   store i32 %51, i32* %6, align 4
-  br label %93
+  br label %56
 
-52:                                               ; preds = %18
+52:                                               ; preds = %21
   %53 = landingpad { i8*, i32 }
           cleanup
   %54 = extractvalue { i8*, i32 } %53, 0
   store i8* %54, i8** %5, align 8
   %55 = extractvalue { i8*, i32 } %53, 1
   store i32 %55, i32* %6, align 4
-  call void @_ZN3BoxINSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEEED2Ev(%class.Box* %8) #3
-  br label %93
-
-56:                                               ; preds = %19
-  %57 = landingpad { i8*, i32 }
-          cleanup
-  %58 = extractvalue { i8*, i32 } %57, 0
-  store i8* %58, i8** %5, align 8
-  %59 = extractvalue { i8*, i32 } %57, 1
-  store i32 %59, i32* %6, align 4
-  br label %92
-
-60:                                               ; preds = %24, %22, %20
-  %61 = landingpad { i8*, i32 }
-          cleanup
-  %62 = extractvalue { i8*, i32 } %61, 0
-  store i8* %62, i8** %5, align 8
-  %63 = extractvalue { i8*, i32 } %61, 1
-  store i32 %63, i32* %6, align 4
-  br label %91
-
-64:                                               ; preds = %26
-  %65 = landingpad { i8*, i32 }
-          cleanup
-  %66 = extractvalue { i8*, i32 } %65, 0
-  store i8* %66, i8** %5, align 8
-  %67 = extractvalue { i8*, i32 } %65, 1
-  store i32 %67, i32* %6, align 4
-  br label %72
-
-68:                                               ; preds = %27
-  %69 = landingpad { i8*, i32 }
-          cleanup
-  %70 = extractvalue { i8*, i32 } %69, 0
-  store i8* %70, i8** %5, align 8
-  %71 = extractvalue { i8*, i32 } %69, 1
-  store i32 %71, i32* %6, align 4
   call void @_ZNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEED1Ev(%"class.std::__cxx11::basic_string"* %11) #3
+  br label %56
+
+56:                                               ; preds = %52, %48
+  call void @_ZNSaIcED1Ev(%"class.std::allocator"* %12) #3
+  br label %70
+
+57:                                               ; preds = %22
+  %58 = landingpad { i8*, i32 }
+          cleanup
+  %59 = extractvalue { i8*, i32 } %58, 0
+  store i8* %59, i8** %5, align 8
+  %60 = extractvalue { i8*, i32 } %58, 1
+  store i32 %60, i32* %6, align 4
+  br label %69
+
+61:                                               ; preds = %23
+  %62 = landingpad { i8*, i32 }
+          cleanup
+  %63 = extractvalue { i8*, i32 } %62, 0
+  store i8* %63, i8** %5, align 8
+  %64 = extractvalue { i8*, i32 } %62, 1
+  store i32 %64, i32* %6, align 4
+  call void @_ZN3BoxINSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEEED2Ev(%class.Box* %14) #3
+  br label %69
+
+65:                                               ; preds = %24
+  %66 = landingpad { i8*, i32 }
+          cleanup
+  %67 = extractvalue { i8*, i32 } %66, 0
+  store i8* %67, i8** %5, align 8
+  %68 = extractvalue { i8*, i32 } %66, 1
+  store i32 %68, i32* %6, align 4
+  call void @_ZN7SyncBoxINSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEEED2Ev(%class.SyncBox* %13) #3
+  br label %69
+
+69:                                               ; preds = %65, %61, %57
+  call void @_ZN3BoxINSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEEED2Ev(%class.Box* %10) #3
+  br label %70
+
+70:                                               ; preds = %69, %56
+  call void @_ZNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEED1Ev(%"class.std::__cxx11::basic_string"* %9) #3
+  br label %71
+
+71:                                               ; preds = %70, %44
+  call void @_ZN7SyncBoxINSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEEED2Ev(%class.SyncBox* %7) #3
   br label %72
 
-72:                                               ; preds = %68, %64
-  call void @_ZNSaIcED1Ev(%"class.std::allocator"* %12) #3
-  br label %91
-
-73:                                               ; preds = %28
-  %74 = landingpad { i8*, i32 }
-          cleanup
-  %75 = extractvalue { i8*, i32 } %74, 0
-  store i8* %75, i8** %5, align 8
-  %76 = extractvalue { i8*, i32 } %74, 1
-  store i32 %76, i32* %6, align 4
-  br label %90
-
-77:                                               ; preds = %29
-  %78 = landingpad { i8*, i32 }
-          cleanup
-  %79 = extractvalue { i8*, i32 } %78, 0
-  store i8* %79, i8** %5, align 8
-  %80 = extractvalue { i8*, i32 } %78, 1
-  store i32 %80, i32* %6, align 4
-  call void @_ZN3BoxINSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEEED2Ev(%class.Box* %14) #3
-  br label %90
-
-81:                                               ; preds = %30
-  %82 = landingpad { i8*, i32 }
-          cleanup
-  %83 = extractvalue { i8*, i32 } %82, 0
-  store i8* %83, i8** %5, align 8
-  %84 = extractvalue { i8*, i32 } %82, 1
-  store i32 %84, i32* %6, align 4
-  br label %89
-
-85:                                               ; preds = %35, %33, %31
-  %86 = landingpad { i8*, i32 }
-          cleanup
-  %87 = extractvalue { i8*, i32 } %86, 0
-  store i8* %87, i8** %5, align 8
-  %88 = extractvalue { i8*, i32 } %86, 1
-  store i32 %88, i32* %6, align 4
-  call void @_ZNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEED1Ev(%"class.std::__cxx11::basic_string"* %15) #3
-  br label %89
-
-89:                                               ; preds = %85, %81
-  call void @_ZN7SyncBoxINSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEEED2Ev(%class.SyncBox* %13) #3
-  br label %90
-
-90:                                               ; preds = %89, %77, %73
-  call void @_ZN3BoxINSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEEED2Ev(%class.Box* %10) #3
-  br label %91
-
-91:                                               ; preds = %90, %72, %60
-  call void @_ZNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEED1Ev(%"class.std::__cxx11::basic_string"* %9) #3
-  br label %92
-
-92:                                               ; preds = %91, %56
-  call void @_ZN7SyncBoxINSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEEED2Ev(%class.SyncBox* %7) #3
-  br label %93
-
-93:                                               ; preds = %92, %52, %48
+72:                                               ; preds = %71, %40, %36
   call void @_ZN3BoxINSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEEED2Ev(%class.Box* %2) #3
-  br label %94
+  br label %73
 
-94:                                               ; preds = %93, %47
-  %95 = load i8*, i8** %5, align 8
-  %96 = load i32, i32* %6, align 4
-  %97 = insertvalue { i8*, i32 } undef, i8* %95, 0
-  %98 = insertvalue { i8*, i32 } %97, i32 %96, 1
-  resume { i8*, i32 } %98
+73:                                               ; preds = %72, %35
+  %74 = load i8*, i8** %5, align 8
+  %75 = load i32, i32* %6, align 4
+  %76 = insertvalue { i8*, i32 } undef, i8* %74, 0
+  %77 = insertvalue { i8*, i32 } %76, i32 %75, 1
+  resume { i8*, i32 } %77
 }
 
 ; Function Attrs: nounwind
@@ -431,14 +367,6 @@ define linkonce_odr dso_local void @_ZN7SyncBoxINSt7__cxx1112basic_stringIcSt11c
   %21 = insertvalue { i8*, i32 } %20, i32 %19, 1
   resume { i8*, i32 } %21
 }
-
-declare dso_local dereferenceable(272) %"class.std::basic_ostream"* @_ZStlsIcSt11char_traitsIcESaIcEERSt13basic_ostreamIT_T0_ES7_RKNSt7__cxx1112basic_stringIS4_S5_T1_EE(%"class.std::basic_ostream"* dereferenceable(272), %"class.std::__cxx11::basic_string"* dereferenceable(32)) #1
-
-declare dso_local dereferenceable(272) %"class.std::basic_ostream"* @_ZStlsISt11char_traitsIcEERSt13basic_ostreamIcT_ES5_PKc(%"class.std::basic_ostream"* dereferenceable(272), i8*) #1
-
-declare dso_local dereferenceable(272) %"class.std::basic_ostream"* @_ZNSolsEPFRSoS_E(%"class.std::basic_ostream"*, %"class.std::basic_ostream"* (%"class.std::basic_ostream"*)*) #1
-
-declare dso_local dereferenceable(272) %"class.std::basic_ostream"* @_ZSt4endlIcSt11char_traitsIcEERSt13basic_ostreamIT_T0_ES6_(%"class.std::basic_ostream"* dereferenceable(272)) #1
 
 ; Function Attrs: noinline nounwind optnone uwtable
 define linkonce_odr dso_local void @_ZN7SyncBoxINSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEEED2Ev(%class.SyncBox*) unnamed_addr #6 comdat align 2 {
@@ -652,7 +580,7 @@ define internal i32 @_ZL22__gthread_mutex_unlockP15pthread_mutex_t(%union.pthrea
 declare extern_weak dso_local i32 @pthread_mutex_unlock(%union.pthread_mutex_t*) #2
 
 ; Function Attrs: noinline uwtable
-define internal void @_GLOBAL__sub_I_ex5.cpp() #0 section ".text.startup" {
+define internal void @_GLOBAL__sub_I_zipper_unwrapped_class.cpp() #0 section ".text.startup" {
   call void @__cxx_global_var_init()
   ret void
 }
