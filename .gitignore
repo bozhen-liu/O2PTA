@@ -22,7 +22,8 @@ doxygen/
 *.log
 *.status
 *.bc
-# *.dot
+*.dot
 log.current
 races.json
 !unittests/PointerAnalysis/PTATestCases/*.ll
+*.class
