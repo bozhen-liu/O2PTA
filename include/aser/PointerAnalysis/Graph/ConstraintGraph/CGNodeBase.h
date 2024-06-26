@@ -32,6 +32,7 @@ template <typename Model>
 struct LangModelTrait;
 
 // must start from 0 and increase by one!
+// edges, constraints
 enum class Constraints : std::uint8_t {
     load = 0,
     store = 1,
@@ -40,6 +41,7 @@ enum class Constraints : std::uint8_t {
     offset = 4,
 };
 
+// nodes, pointers
 enum class CGNodeKind : uint8_t {
     PtrNode = 0,
     ObjNode = 1,
