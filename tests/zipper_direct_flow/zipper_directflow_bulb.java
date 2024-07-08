@@ -27,6 +27,7 @@ public class Bulb {
         bulb1.setStatus(bulb1Status);
         int bulb1Intensity = bulb1.getIntensity();
 
+
         LightBulb bulb2 = new LightBulb();
         boolean bulb2Status = false; // light is off
         bulb2.setStatus(bulb2Status);

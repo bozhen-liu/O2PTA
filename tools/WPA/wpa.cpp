@@ -33,13 +33,13 @@ static cl::opt<std::string> TargetModulePath(cl::Positional, cl::desc("path to i
 using Origin = KOrigin<1>;
 
 template <typename ctx>
-using Model = DefaultLangModel<ctx, FSMemModel<ctx>>;
+using Model = DefaultLangModel<ctx, FSMemModel<ctx>>; // field-sensitive
 
 using OriginSolver = PartialUpdateSolver<Model<Origin>>;
 //using WaveSolver = WavePropagation<Model<NoCtx>>;
 //using DPSolver = DeepPropagation<Model<NoCtx>>;
 using NoCtxSolver = PartialUpdateSolver<Model<NoCtx>>;
-using CallsiteSolver = PartialUpdateSolver<Model<KCallSite<2>>>;
+using CallsiteSolver = PartialUpdateSolver<Model<KCallSite<2>>>; // 2-callsite-sensitive
 
 namespace {
 
@@ -152,7 +152,7 @@ int main(int argc, char** argv) {
     // passes.add(new PointerAnalysisPass<OriginSolver>());
     // passes.add(new PTADriverPass<OriginSolver>);
 
-    // passes.add(new PointerAnalysisPass<CallsiteSolver>());
+    // passes.add(new PointerAnalysisPass<CallsiteSolver>()); // 2-callsite-sensitive
     // passes.add(new PTADriverPass<CallsiteSolver>);
 
     passes.run(*module);

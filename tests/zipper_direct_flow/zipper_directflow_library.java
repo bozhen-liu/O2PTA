@@ -23,12 +23,12 @@ public class Library {
         String book1Title = new String("The Great Gatsby");
         book1.setTitle(book1Title);
         int book1ID=book1.getID();
-        
+        System.out.println(book1ID);
 
         Book book2 = new Book();
         String book2Title = new String("Pointer Analysis");
         book2.setTitle(book2Title);
         int book2ID=book2.getID();
-       
+       System.out.println(book2ID);
     }
 }
