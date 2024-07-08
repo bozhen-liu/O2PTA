@@ -27,3 +27,4 @@ log.current
 races.json
 !unittests/PointerAnalysis/PTATestCases/*.ll
 *.class
+tests/my
