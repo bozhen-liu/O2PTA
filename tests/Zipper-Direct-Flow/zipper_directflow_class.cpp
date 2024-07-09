@@ -1,37 +1,40 @@
 #include <iostream>
 #include <string>
 
+using namespace std;
+
 class Person {
 public:
-    std::string name;
-    std::string id;
+    string name;
+    string id;
 
-    void setName(std::string nm) {
+    void setName(string nm) {
         this->name = nm;
         updateID();
     }
 
     void updateID() {
-        std::string newName = this->name;
+        string newName = this->name;
         this->id = newName;
     }
 
-    std::string getID() {
-        std::string id = this->id;
-        return id;
+    string getID() {
+        return this->id;
     }
 };
 
 int main() {
     Person p1;
-    std::string name1 = "A";
+    string name1 = "A";
     p1.setName(name1);
-    std::string id1 = p1.getID();
+    string id1 = p1.getID();
+    cout << "Person 1: Name = " << p1.name << ", ID = " << id1 << endl;
 
     Person p2;
-    std::string name2 = "B";
+    string name2 = "B";
     p2.setName(name2);
-    std::string id2 = p2.getID();
+    string id2 = p2.getID();
+    cout << "Person 2: Name = " << p2.name << ", ID = " << id2 << endl;
 
     return 0;
 }
