@@ -1,0 +1,26 @@
+digraph "CallGraph" {
+	label="CallGraph";
+
+	Node0x1c9b3f0 [shape=record,label="{\<Empty\>\ni32 @main()}"];
+	Node0x1c9b3f0 -> Node0x1ca44c0;
+	Node0x1c9b3f0 -> Node0x1ca75c0;
+	Node0x1c9b3f0 -> Node0x1ca9a80;
+	Node0x1c9b3f0 -> Node0x1ca9a80;
+	Node0x1c9b3f0 -> Node0x1ca9a80;
+	Node0x1c9b3f0 -> Node0x1ca9cc0;
+	Node0x1c9b3f0 -> Node0x1ca9e40;
+	Node0x1c9b3f0 -> Node0x1ca44c0;
+	Node0x1c9b3f0 -> Node0x1ca75c0;
+	Node0x1c9b3f0 -> Node0x1ca9a80;
+	Node0x1c9b3f0 -> Node0x1ca9a80;
+	Node0x1c9b3f0 -> Node0x1ca9a80;
+	Node0x1c9b3f0 -> Node0x1ca9cc0;
+	Node0x1c9b3f0 -> Node0x1ca9e40;
+	Node0x1ca44c0 [shape=record,label="{\<Empty\>\nvoid @_ZN9LightBulb9setStatusEb(%struct.LightBulb*, i1)}"];
+	Node0x1ca44c0 -> Node0x1caa550;
+	Node0x1ca75c0 [shape=record,label="{\<Empty\>\ni32 @_ZNK9LightBulb12getIntensityEv(%struct.LightBulb*)}"];
+	Node0x1ca9a80 [shape=record,label="{\<Empty\>\n%\"class.std::basic_ostream\"* @_ZStlsISt11char_traitsIcEERSt13basic_ostreamIcT_ES5_PKc(%\"class.std::basic_ostream\"*, i8*)}"];
+	Node0x1ca9cc0 [shape=record,label="{\<Empty\>\n%\"class.std::basic_ostream\"* @_ZNSolsEi(%\"class.std::basic_ostream\"*, i32)}"];
+	Node0x1ca9e40 [shape=record,label="{\<Empty\>\n%\"class.std::basic_ostream\"* @_ZNSolsEPFRSoS_E(%\"class.std::basic_ostream\"*, %\"class.std::basic_ostream\"* (%\"class.std::basic_ostream\"*)*)}"];
+	Node0x1caa550 [shape=record,label="{\<Empty\>\nvoid @_ZN9LightBulb15adjustIntensityEv(%struct.LightBulb*)}"];
+}

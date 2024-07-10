@@ -1,0 +1,1061 @@
+Object 2 : 
+2
+<Empty>
+Offset:0
+
+Object 4 : 
+4
+<Empty>
+Offset:0
+
+Object 6 : 
+6
+<Empty>
+@_ZStL8__ioinit = internal global %"class.std::ios_base::Init" zeroinitializer, align 1
+Offset:0
+
+Object 9 : 
+9
+<Empty>
+@__dso_handle = external hidden global i8
+Offset:0
+
+Object 12 : 
+12
+<Empty>
+@_ZSt4cout = external dso_local global %"class.std::basic_ostream", align 8
+Offset:0
+
+Object 15 : 
+15
+<Empty>
+@.str = private unnamed_addr constant [18 x i8] c"Bulb 1: Status = \00", align 1
+Offset:0
+
+Object 18 : 
+18
+<Empty>
+@.str.1 = private unnamed_addr constant [3 x i8] c"on\00", align 1
+Offset:0
+
+Object 21 : 
+21
+<Empty>
+@.str.2 = private unnamed_addr constant [4 x i8] c"off\00", align 1
+Offset:0
+
+Object 24 : 
+24
+<Empty>
+@.str.3 = private unnamed_addr constant [15 x i8] c", Intensity = \00", align 1
+Offset:0
+
+Object 27 : 
+27
+<Empty>
+@.str.4 = private unnamed_addr constant [18 x i8] c"Bulb 2: Status = \00", align 1
+Offset:0
+
+Object 30 : 
+30
+<Empty>
+@llvm.global_ctors = appending global [1 x { i32, void ()*, i8* }] [{ i32, void ()*, i8* } { i32 65535, void ()* @_GLOBAL__sub_I_zipper_directflow_bulb_class.cpp, i8* null }]
+Offset:0
+
+Object 33 : 
+33
+<Empty>__cxx_global_var_init
+Offset:0
+
+Object 36 : 
+36
+<Empty>_ZNSt8ios_base4InitC1Ev
+Offset:0
+
+Object 39 : 
+39
+<Empty>_ZNSt8ios_base4InitD1Ev
+Offset:0
+
+Object 42 : 
+42
+<Empty>__cxa_atexit
+Offset:0
+
+Object 45 : 
+45
+<Empty>main
+Offset:0
+
+Object 48 : 
+48
+<Empty>_ZN9LightBulb9setStatusEb
+Offset:0
+
+Object 51 : 
+51
+<Empty>_ZNK9LightBulb12getIntensityEv
+Offset:0
+
+Object 54 : 
+54
+<Empty>_ZStlsISt11char_traitsIcEERSt13basic_ostreamIcT_ES5_PKc
+Offset:0
+
+Object 57 : 
+57
+<Empty>_ZNSolsEi
+Offset:0
+
+Object 60 : 
+60
+<Empty>_ZNSolsEPFRSoS_E
+Offset:0
+
+Object 63 : 
+63
+<Empty>_ZSt4endlIcSt11char_traitsIcEERSt13basic_ostreamIT_T0_ES6_
+Offset:0
+
+Object 66 : 
+66
+<Empty>_ZN9LightBulb15adjustIntensityEv
+Offset:0
+
+Object 69 : 
+69
+<Empty>_GLOBAL__sub_I_zipper_directflow_bulb_class.cpp
+Offset:0
+
+Object 72 : 
+72
+<Empty>
+@llvm.global_ctors = appending global [1 x { i32, void ()*, i8* }] [{ i32, void ()*, i8* } { i32 65535, void ()* @_GLOBAL__sub_I_zipper_directflow_bulb_class.cpp, i8* null }]
+Offset:8
+
+Object 74 : 
+74
+<Empty>
+Offset:0
+
+Object 77 : 
+77
+<Empty>
+Offset:0
+
+Object 80 : 
+80
+<Empty>
+Offset:0
+
+Object 83 : 
+83
+<Empty>
+Offset:0
+
+Object 86 : 
+86
+<Empty>
+Offset:0
+
+Object 89 : 
+89
+<Empty>
+Offset:0
+
+Object 92 : 
+92
+<Empty>
+Offset:0
+
+Object 108 : 
+108
+<Empty>
+Offset:0
+
+Object 111 : 
+111
+<Empty>
+Offset:0
+
+Object 116 : 
+116
+<Empty>
+Offset:0
+
+Object 122 : 
+122
+<Empty>
+Offset:0
+
+Object 128 : 
+128
+<Empty>
+Offset:4
+
+Object 130 : 
+130
+<Empty>
+Offset:4
+
+0
+<Empty>
+i8* null
+ : {}
+
+
+1
+<Empty>
+i8* undef
+ : {}
+
+
+2
+<Empty>
+Offset:0
+ : {}
+
+
+3
+anonymous ptr : {2}
+
+
+4
+<Empty>
+Offset:0
+ : {}
+
+
+5
+anonymous ptr : {4}
+
+
+6
+<Empty>
+@_ZStL8__ioinit = internal global %"class.std::ios_base::Init" zeroinitializer, align 1
+Offset:0
+ : {}
+
+
+7
+anonymous ptr : {6}
+
+
+8
+<Empty>
+@_ZStL8__ioinit = internal global %"class.std::ios_base::Init" zeroinitializer, align 1
+ : {6}
+
+
+9
+<Empty>
+@__dso_handle = external hidden global i8
+Offset:0
+ : {}
+
+
+10
+anonymous ptr : {9}
+
+
+11
+<Empty>
+@__dso_handle = external hidden global i8
+ : {9}
+
+
+12
+<Empty>
+@_ZSt4cout = external dso_local global %"class.std::basic_ostream", align 8
+Offset:0
+ : {}
+
+
+13
+anonymous ptr : {12}
+
+
+14
+<Empty>
+@_ZSt4cout = external dso_local global %"class.std::basic_ostream", align 8
+ : {12}
+
+
+15
+<Empty>
+@.str = private unnamed_addr constant [18 x i8] c"Bulb 1: Status = \00", align 1
+Offset:0
+ : {}
+
+
+16
+anonymous ptr : {15}
+
+
+17
+<Empty>
+@.str = private unnamed_addr constant [18 x i8] c"Bulb 1: Status = \00", align 1
+ : {15}
+
+
+18
+<Empty>
+@.str.1 = private unnamed_addr constant [3 x i8] c"on\00", align 1
+Offset:0
+ : {}
+
+
+19
+anonymous ptr : {18}
+
+
+20
+<Empty>
+@.str.1 = private unnamed_addr constant [3 x i8] c"on\00", align 1
+ : {18}
+
+
+21
+<Empty>
+@.str.2 = private unnamed_addr constant [4 x i8] c"off\00", align 1
+Offset:0
+ : {}
+
+
+22
+anonymous ptr : {21}
+
+
+23
+<Empty>
+@.str.2 = private unnamed_addr constant [4 x i8] c"off\00", align 1
+ : {21}
+
+
+24
+<Empty>
+@.str.3 = private unnamed_addr constant [15 x i8] c", Intensity = \00", align 1
+Offset:0
+ : {}
+
+
+25
+anonymous ptr : {24}
+
+
+26
+<Empty>
+@.str.3 = private unnamed_addr constant [15 x i8] c", Intensity = \00", align 1
+ : {24}
+
+
+27
+<Empty>
+@.str.4 = private unnamed_addr constant [18 x i8] c"Bulb 2: Status = \00", align 1
+Offset:0
+ : {}
+
+
+28
+anonymous ptr : {27}
+
+
+29
+<Empty>
+@.str.4 = private unnamed_addr constant [18 x i8] c"Bulb 2: Status = \00", align 1
+ : {27}
+
+
+30
+<Empty>
+@llvm.global_ctors = appending global [1 x { i32, void ()*, i8* }] [{ i32, void ()*, i8* } { i32 65535, void ()* @_GLOBAL__sub_I_zipper_directflow_bulb_class.cpp, i8* null }]
+Offset:0
+ : {}
+
+
+31
+anonymous ptr : {30}
+
+
+32
+<Empty>
+@llvm.global_ctors = appending global [1 x { i32, void ()*, i8* }] [{ i32, void ()*, i8* } { i32 65535, void ()* @_GLOBAL__sub_I_zipper_directflow_bulb_class.cpp, i8* null }]
+ : {30}
+
+
+33
+<Empty>__cxx_global_var_init
+Offset:0
+ : {}
+
+
+34
+anonymous ptr : {33}
+
+
+35
+<Empty>
+
+; Function Attrs: noinline uwtable
+define internal void @__cxx_global_var_init() #0 section ".text.startup" {
+  call void @_ZNSt8ios_base4InitC1Ev(%"class.std::ios_base::Init"* @_ZStL8__ioinit)
+  %1 = bitcast void (%"class.std::ios_base::Init"*)* @_ZNSt8ios_base4InitD1Ev to void (i8*)*
+  %2 = getelementptr inbounds %"class.std::ios_base::Init", %"class.std::ios_base::Init"* @_ZStL8__ioinit, i32 0, i32 0
+  %3 = call i32 @__cxa_atexit(void (i8*)* %1, i8* %2, i8* @__dso_handle) #3
+  ret void
+}
+
+ : {33}
+
+
+36
+<Empty>_ZNSt8ios_base4InitC1Ev
+Offset:0
+ : {}
+
+
+37
+anonymous ptr : {36}
+
+
+38
+<Empty>
+
+declare dso_local void @_ZNSt8ios_base4InitC1Ev(%"class.std::ios_base::Init"*) unnamed_addr #1
+
+ : {36}
+
+
+39
+<Empty>_ZNSt8ios_base4InitD1Ev
+Offset:0
+ : {}
+
+
+40
+anonymous ptr : {39}
+
+
+41
+<Empty>
+
+; Function Attrs: nounwind
+declare dso_local void @_ZNSt8ios_base4InitD1Ev(%"class.std::ios_base::Init"*) unnamed_addr #2
+
+ : {39}
+
+
+42
+<Empty>__cxa_atexit
+Offset:0
+ : {}
+
+
+43
+anonymous ptr : {42}
+
+
+44
+<Empty>
+
+; Function Attrs: nounwind
+declare dso_local i32 @__cxa_atexit(void (i8*)*, i8*, i8*) #3
+
+ : {42}
+
+
+45
+<Empty>main
+Offset:0
+ : {}
+
+
+46
+anonymous ptr : {45}
+
+
+47
+<Empty>
+
+; Function Attrs: noinline norecurse optnone uwtable
+define dso_local i32 @main() #4 {
+  %1 = alloca i32, align 4
+  %2 = alloca %class.LightBulb, align 4
+  %3 = alloca i8, align 1
+  %4 = alloca i32, align 4
+  %5 = alloca %class.LightBulb, align 4
+  %6 = alloca i8, align 1
+  %7 = alloca i32, align 4
+  store i32 0, i32* %1, align 4
+  store i8 1, i8* %3, align 1
+  %8 = load i8, i8* %3, align 1
+  %9 = trunc i8 %8 to i1
+  call void @_ZN9LightBulb9setStatusEb(%class.LightBulb* %2, i1 zeroext %9)
+  %10 = call i32 @_ZNK9LightBulb12getIntensityEv(%class.LightBulb* %2)
+  store i32 %10, i32* %4, align 4
+  %11 = getelementptr inbounds [18 x i8], [18 x i8]* @.str, i64 0, i64 0
+  %12 = call dereferenceable(272) %"class.std::basic_ostream"* @_ZStlsISt11char_traitsIcEERSt13basic_ostreamIcT_ES5_PKc(%"class.std::basic_ostream"* dereferenceable(272) @_ZSt4cout, i8* %11)
+  %13 = load i8, i8* %3, align 1
+  %14 = trunc i8 %13 to i1
+  %15 = zext i1 %14 to i64
+  %16 = getelementptr inbounds [3 x i8], [3 x i8]* @.str.1, i64 0, i64 0
+  %17 = getelementptr inbounds [4 x i8], [4 x i8]* @.str.2, i64 0, i64 0
+  %18 = select i1 %14, i8* %16, i8* %17
+  %19 = call dereferenceable(272) %"class.std::basic_ostream"* @_ZStlsISt11char_traitsIcEERSt13basic_ostreamIcT_ES5_PKc(%"class.std::basic_ostream"* dereferenceable(272) %12, i8* %18)
+  %20 = getelementptr inbounds [15 x i8], [15 x i8]* @.str.3, i64 0, i64 0
+  %21 = call dereferenceable(272) %"class.std::basic_ostream"* @_ZStlsISt11char_traitsIcEERSt13basic_ostreamIcT_ES5_PKc(%"class.std::basic_ostream"* dereferenceable(272) %19, i8* %20)
+  %22 = load i32, i32* %4, align 4
+  %23 = call dereferenceable(272) %"class.std::basic_ostream"* @_ZNSolsEi(%"class.std::basic_ostream"* %21, i32 %22)
+  %24 = call dereferenceable(272) %"class.std::basic_ostream"* @_ZNSolsEPFRSoS_E(%"class.std::basic_ostream"* %23, %"class.std::basic_ostream"* (%"class.std::basic_ostream"*)* @_ZSt4endlIcSt11char_traitsIcEERSt13basic_ostreamIT_T0_ES6_)
+  store i8 0, i8* %6, align 1
+  %25 = load i8, i8* %6, align 1
+  %26 = trunc i8 %25 to i1
+  call void @_ZN9LightBulb9setStatusEb(%class.LightBulb* %5, i1 zeroext %26)
+  %27 = call i32 @_ZNK9LightBulb12getIntensityEv(%class.LightBulb* %5)
+  store i32 %27, i32* %7, align 4
+  %28 = getelementptr inbounds [18 x i8], [18 x i8]* @.str.4, i64 0, i64 0
+  %29 = call dereferenceable(272) %"class.std::basic_ostream"* @_ZStlsISt11char_traitsIcEERSt13basic_ostreamIcT_ES5_PKc(%"class.std::basic_ostream"* dereferenceable(272) @_ZSt4cout, i8* %28)
+  %30 = load i8, i8* %6, align 1
+  %31 = trunc i8 %30 to i1
+  %32 = zext i1 %31 to i64
+  %33 = getelementptr inbounds [4 x i8], [4 x i8]* @.str.2, i64 0, i64 0
+  %34 = getelementptr inbounds [3 x i8], [3 x i8]* @.str.1, i64 0, i64 0
+  %35 = select i1 %31, i8* %33, i8* %34
+  %36 = call dereferenceable(272) %"class.std::basic_ostream"* @_ZStlsISt11char_traitsIcEERSt13basic_ostreamIcT_ES5_PKc(%"class.std::basic_ostream"* dereferenceable(272) %29, i8* %35)
+  %37 = getelementptr inbounds [15 x i8], [15 x i8]* @.str.3, i64 0, i64 0
+  %38 = call dereferenceable(272) %"class.std::basic_ostream"* @_ZStlsISt11char_traitsIcEERSt13basic_ostreamIcT_ES5_PKc(%"class.std::basic_ostream"* dereferenceable(272) %36, i8* %37)
+  %39 = load i32, i32* %7, align 4
+  %40 = call dereferenceable(272) %"class.std::basic_ostream"* @_ZNSolsEi(%"class.std::basic_ostream"* %38, i32 %39)
+  %41 = call dereferenceable(272) %"class.std::basic_ostream"* @_ZNSolsEPFRSoS_E(%"class.std::basic_ostream"* %40, %"class.std::basic_ostream"* (%"class.std::basic_ostream"*)* @_ZSt4endlIcSt11char_traitsIcEERSt13basic_ostreamIT_T0_ES6_)
+  ret i32 0
+}
+
+ : {45}
+
+
+48
+<Empty>_ZN9LightBulb9setStatusEb
+Offset:0
+ : {}
+
+
+49
+anonymous ptr : {48}
+
+
+50
+<Empty>
+
+; Function Attrs: noinline optnone uwtable
+define linkonce_odr dso_local void @_ZN9LightBulb9setStatusEb(%class.LightBulb*, i1 zeroext) #5 comdat align 2 {
+  %3 = alloca %class.LightBulb*, align 8
+  %4 = alloca i8, align 1
+  store %class.LightBulb* %0, %class.LightBulb** %3, align 8
+  %5 = zext i1 %1 to i8
+  store i8 %5, i8* %4, align 1
+  %6 = load %class.LightBulb*, %class.LightBulb** %3, align 8
+  %7 = load i8, i8* %4, align 1
+  %8 = trunc i8 %7 to i1
+  %9 = getelementptr inbounds %class.LightBulb, %class.LightBulb* %6, i32 0, i32 0
+  %10 = zext i1 %8 to i8
+  store i8 %10, i8* %9, align 4
+  call void @_ZN9LightBulb15adjustIntensityEv(%class.LightBulb* %6)
+  ret void
+}
+
+ : {48}
+
+
+51
+<Empty>_ZNK9LightBulb12getIntensityEv
+Offset:0
+ : {}
+
+
+52
+anonymous ptr : {51}
+
+
+53
+<Empty>
+
+; Function Attrs: noinline nounwind optnone uwtable
+define linkonce_odr dso_local i32 @_ZNK9LightBulb12getIntensityEv(%class.LightBulb*) #6 comdat align 2 {
+  %2 = alloca %class.LightBulb*, align 8
+  store %class.LightBulb* %0, %class.LightBulb** %2, align 8
+  %3 = load %class.LightBulb*, %class.LightBulb** %2, align 8
+  %4 = getelementptr inbounds %class.LightBulb, %class.LightBulb* %3, i32 0, i32 1
+  %5 = load i32, i32* %4, align 4
+  ret i32 %5
+}
+
+ : {51}
+
+
+54
+<Empty>_ZStlsISt11char_traitsIcEERSt13basic_ostreamIcT_ES5_PKc
+Offset:0
+ : {}
+
+
+55
+anonymous ptr : {54}
+
+
+56
+<Empty>
+
+declare dso_local dereferenceable(272) %"class.std::basic_ostream"* @_ZStlsISt11char_traitsIcEERSt13basic_ostreamIcT_ES5_PKc(%"class.std::basic_ostream"* dereferenceable(272), i8*) #1
+
+ : {54}
+
+
+57
+<Empty>_ZNSolsEi
+Offset:0
+ : {}
+
+
+58
+anonymous ptr : {57}
+
+
+59
+<Empty>
+
+declare dso_local dereferenceable(272) %"class.std::basic_ostream"* @_ZNSolsEi(%"class.std::basic_ostream"*, i32) #1
+
+ : {57}
+
+
+60
+<Empty>_ZNSolsEPFRSoS_E
+Offset:0
+ : {}
+
+
+61
+anonymous ptr : {60}
+
+
+62
+<Empty>
+
+declare dso_local dereferenceable(272) %"class.std::basic_ostream"* @_ZNSolsEPFRSoS_E(%"class.std::basic_ostream"*, %"class.std::basic_ostream"* (%"class.std::basic_ostream"*)*) #1
+
+ : {60}
+
+
+63
+<Empty>_ZSt4endlIcSt11char_traitsIcEERSt13basic_ostreamIT_T0_ES6_
+Offset:0
+ : {}
+
+
+64
+anonymous ptr : {63}
+
+
+65
+<Empty>
+
+declare dso_local dereferenceable(272) %"class.std::basic_ostream"* @_ZSt4endlIcSt11char_traitsIcEERSt13basic_ostreamIT_T0_ES6_(%"class.std::basic_ostream"* dereferenceable(272)) #1
+
+ : {63}
+
+
+66
+<Empty>_ZN9LightBulb15adjustIntensityEv
+Offset:0
+ : {}
+
+
+67
+anonymous ptr : {66}
+
+
+68
+<Empty>
+
+; Function Attrs: noinline nounwind optnone uwtable
+define linkonce_odr dso_local void @_ZN9LightBulb15adjustIntensityEv(%class.LightBulb*) #6 comdat align 2 {
+  %2 = alloca %class.LightBulb*, align 8
+  store %class.LightBulb* %0, %class.LightBulb** %2, align 8
+  %3 = load %class.LightBulb*, %class.LightBulb** %2, align 8
+  %4 = getelementptr inbounds %class.LightBulb, %class.LightBulb* %3, i32 0, i32 0
+  %5 = load i8, i8* %4, align 4
+  %6 = trunc i8 %5 to i1
+  br i1 %6, label %7, label %9
+
+7:                                                ; preds = %1
+  %8 = getelementptr inbounds %class.LightBulb, %class.LightBulb* %3, i32 0, i32 1
+  store i32 100, i32* %8, align 4
+  br label %11
+
+9:                                                ; preds = %1
+  %10 = getelementptr inbounds %class.LightBulb, %class.LightBulb* %3, i32 0, i32 1
+  store i32 0, i32* %10, align 4
+  br label %11
+
+11:                                               ; preds = %9, %7
+  ret void
+}
+
+ : {66}
+
+
+69
+<Empty>_GLOBAL__sub_I_zipper_directflow_bulb_class.cpp
+Offset:0
+ : {}
+
+
+70
+anonymous ptr : {69}
+
+
+71
+<Empty>
+
+; Function Attrs: noinline uwtable
+define internal void @_GLOBAL__sub_I_zipper_directflow_bulb_class.cpp() #0 section ".text.startup" {
+  call void @__cxx_global_var_init()
+  ret void
+}
+
+ : {69}
+
+
+72
+<Empty>
+@llvm.global_ctors = appending global [1 x { i32, void ()*, i8* }] [{ i32, void ()*, i8* } { i32 65535, void ()* @_GLOBAL__sub_I_zipper_directflow_bulb_class.cpp, i8* null }]
+Offset:8
+ : {69}
+
+
+73
+anonymous ptr : {72}
+
+
+74
+<Empty>
+Offset:0
+ : {}
+
+
+75
+anonymous ptr : {74}
+
+
+76
+<Empty>
+  %1 = alloca i32, align 4
+ : {74}
+
+
+77
+<Empty>
+Offset:0
+ : {}
+
+
+78
+anonymous ptr : {77}
+
+
+79
+<Empty>
+  %2 = alloca %class.LightBulb, align 4
+ : {77}
+
+
+80
+<Empty>
+Offset:0
+ : {}
+
+
+81
+anonymous ptr : {80}
+
+
+82
+<Empty>
+  %3 = alloca i8, align 1
+ : {80}
+
+
+83
+<Empty>
+Offset:0
+ : {}
+
+
+84
+anonymous ptr : {83}
+
+
+85
+<Empty>
+  %4 = alloca i32, align 4
+ : {83}
+
+
+86
+<Empty>
+Offset:0
+ : {}
+
+
+87
+anonymous ptr : {86}
+
+
+88
+<Empty>
+  %5 = alloca %class.LightBulb, align 4
+ : {86}
+
+
+89
+<Empty>
+Offset:0
+ : {}
+
+
+90
+anonymous ptr : {89}
+
+
+91
+<Empty>
+  %6 = alloca i8, align 1
+ : {89}
+
+
+92
+<Empty>
+Offset:0
+ : {}
+
+
+93
+anonymous ptr : {92}
+
+
+94
+<Empty>
+  %7 = alloca i32, align 4
+ : {92}
+
+
+95
+<Empty>
+  %12 = call dereferenceable(272) %"class.std::basic_ostream"* @_ZStlsISt11char_traitsIcEERSt13basic_ostreamIcT_ES5_PKc(%"class.std::basic_ostream"* dereferenceable(272) @_ZSt4cout, i8* %11)
+ : {}
+
+
+96
+<Empty>
+  %18 = select i1 %14, i8* %16, i8* %17
+ : {18 ,21}
+
+
+97
+<Empty>
+  %19 = call dereferenceable(272) %"class.std::basic_ostream"* @_ZStlsISt11char_traitsIcEERSt13basic_ostreamIcT_ES5_PKc(%"class.std::basic_ostream"* dereferenceable(272) %12, i8* %18)
+ : {}
+
+
+98
+<Empty>
+  %21 = call dereferenceable(272) %"class.std::basic_ostream"* @_ZStlsISt11char_traitsIcEERSt13basic_ostreamIcT_ES5_PKc(%"class.std::basic_ostream"* dereferenceable(272) %19, i8* %20)
+ : {}
+
+
+99
+<Empty>
+  %23 = call dereferenceable(272) %"class.std::basic_ostream"* @_ZNSolsEi(%"class.std::basic_ostream"* %21, i32 %22)
+ : {}
+
+
+100
+<Empty>
+  %24 = call dereferenceable(272) %"class.std::basic_ostream"* @_ZNSolsEPFRSoS_E(%"class.std::basic_ostream"* %23, %"class.std::basic_ostream"* (%"class.std::basic_ostream"*)* @_ZSt4endlIcSt11char_traitsIcEERSt13basic_ostreamIT_T0_ES6_)
+ : {}
+
+
+101
+<Empty>
+  %29 = call dereferenceable(272) %"class.std::basic_ostream"* @_ZStlsISt11char_traitsIcEERSt13basic_ostreamIcT_ES5_PKc(%"class.std::basic_ostream"* dereferenceable(272) @_ZSt4cout, i8* %28)
+ : {}
+
+
+102
+<Empty>
+  %35 = select i1 %31, i8* %33, i8* %34
+ : {18 ,21}
+
+
+103
+<Empty>
+  %36 = call dereferenceable(272) %"class.std::basic_ostream"* @_ZStlsISt11char_traitsIcEERSt13basic_ostreamIcT_ES5_PKc(%"class.std::basic_ostream"* dereferenceable(272) %29, i8* %35)
+ : {}
+
+
+104
+<Empty>
+  %38 = call dereferenceable(272) %"class.std::basic_ostream"* @_ZStlsISt11char_traitsIcEERSt13basic_ostreamIcT_ES5_PKc(%"class.std::basic_ostream"* dereferenceable(272) %36, i8* %37)
+ : {}
+
+
+105
+<Empty>
+  %40 = call dereferenceable(272) %"class.std::basic_ostream"* @_ZNSolsEi(%"class.std::basic_ostream"* %38, i32 %39)
+ : {}
+
+
+106
+<Empty>
+  %41 = call dereferenceable(272) %"class.std::basic_ostream"* @_ZNSolsEPFRSoS_E(%"class.std::basic_ostream"* %40, %"class.std::basic_ostream"* (%"class.std::basic_ostream"*)* @_ZSt4endlIcSt11char_traitsIcEERSt13basic_ostreamIT_T0_ES6_)
+ : {}
+
+
+107
+<Empty>
+%class.LightBulb* %0
+ : {77 ,86}
+
+
+108
+<Empty>
+Offset:0
+ : {77 ,86}
+
+
+109
+anonymous ptr : {108}
+
+
+110
+<Empty>
+  %3 = alloca %class.LightBulb*, align 8
+ : {108}
+
+
+111
+<Empty>
+Offset:0
+ : {}
+
+
+112
+anonymous ptr : {111}
+
+
+113
+<Empty>
+  %4 = alloca i8, align 1
+ : {111}
+
+
+114
+<Empty>
+  %6 = load %class.LightBulb*, %class.LightBulb** %3, align 8
+ : {77 ,86}
+
+
+115
+<Empty>
+%class.LightBulb* %0
+ : {77 ,86}
+
+
+116
+<Empty>
+Offset:0
+ : {77 ,86}
+
+
+117
+anonymous ptr : {116}
+
+
+118
+<Empty>
+  %2 = alloca %class.LightBulb*, align 8
+ : {116}
+
+
+119
+<Empty>
+  %3 = load %class.LightBulb*, %class.LightBulb** %2, align 8
+ : {77 ,86}
+
+
+120
+<Empty>
+  %4 = getelementptr inbounds %class.LightBulb, %class.LightBulb* %3, i32 0, i32 1
+ : {128 ,130}
+
+
+121
+<Empty>
+%class.LightBulb* %0
+ : {77 ,86}
+
+
+122
+<Empty>
+Offset:0
+ : {77 ,86}
+
+
+123
+anonymous ptr : {122}
+
+
+124
+<Empty>
+  %2 = alloca %class.LightBulb*, align 8
+ : {122}
+
+
+125
+<Empty>
+  %3 = load %class.LightBulb*, %class.LightBulb** %2, align 8
+ : {77 ,86}
+
+
+126
+<Empty>
+  %8 = getelementptr inbounds %class.LightBulb, %class.LightBulb* %3, i32 0, i32 1
+ : {128 ,130}
+
+
+127
+<Empty>
+  %10 = getelementptr inbounds %class.LightBulb, %class.LightBulb* %3, i32 0, i32 1
+ : {128 ,130}
+
+
+128
+<Empty>
+Offset:4
+ : {}
+
+
+129
+anonymous ptr : {128}
+
+
+130
+<Empty>
+Offset:4
+ : {}
+
+
+131
+anonymous ptr : {130}
+
+

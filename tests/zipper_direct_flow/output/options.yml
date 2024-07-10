@@ -1,0 +1,21 @@
+optionsFile: null
+printHelp: false
+classPath: Person1.jar
+appClassPath: null
+mainClass: Person
+inputClasses: []
+javaVersion: 8
+prependJVM: false
+allowPhantom: false
+worldBuilderClass: pascal.taie.frontend.soot.SootWorldBuilder
+outputDir: /home/koushik/O2PTA/tests/zipper_direct_flow/output
+preBuildIR: false
+worldCacheMode: false
+scope: APP
+nativeModel: true
+planFile: null
+analyses:
+  pta: advanced:zipper-e
+onlyGenPlan: false
+keepResult:
+- $KEEP-ALL

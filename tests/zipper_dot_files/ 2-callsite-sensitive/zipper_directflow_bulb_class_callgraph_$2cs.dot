@@ -1,0 +1,37 @@
+digraph "CallGraph" {
+	label="CallGraph";
+
+	Node0x17393b0 [shape=record,label="{\<empty\>\ni32 @main()}"];
+	Node0x17393b0 -> Node0x1742480;
+	Node0x17393b0 -> Node0x1745580;
+	Node0x17393b0 -> Node0x1747a80;
+	Node0x17393b0 -> Node0x1747c30;
+	Node0x17393b0 -> Node0x1747db0;
+	Node0x17393b0 -> Node0x1747f60;
+	Node0x17393b0 -> Node0x1748110;
+	Node0x17393b0 -> Node0x17482c0;
+	Node0x17393b0 -> Node0x1742ed0;
+	Node0x17393b0 -> Node0x172ac40;
+	Node0x17393b0 -> Node0x172adf0;
+	Node0x17393b0 -> Node0x172afa0;
+	Node0x17393b0 -> Node0x1743000;
+	Node0x17393b0 -> Node0x1735690;
+	Node0x1742480 [shape=record,label="{\<0x1711e38-\>\>\nvoid @_ZN9LightBulb9setStatusEb(%class.LightBulb*, i1)}"];
+	Node0x1742480 -> Node0x1736ad0;
+	Node0x1745580 [shape=record,label="{\<0x17120a0-\>\>\ni32 @_ZNK9LightBulb12getIntensityEv(%class.LightBulb*)}"];
+	Node0x1747a80 [shape=record,label="{\<0x1712518-\>\>\n%\"class.std::basic_ostream\"* @_ZStlsISt11char_traitsIcEERSt13basic_ostreamIcT_ES5_PKc(%\"class.std::basic_ostream\"*, i8*)}"];
+	Node0x1747c30 [shape=record,label="{\<0x1712908-\>\>\n%\"class.std::basic_ostream\"* @_ZStlsISt11char_traitsIcEERSt13basic_ostreamIcT_ES5_PKc(%\"class.std::basic_ostream\"*, i8*)}"];
+	Node0x1747db0 [shape=record,label="{\<0x1712a78-\>\>\n%\"class.std::basic_ostream\"* @_ZStlsISt11char_traitsIcEERSt13basic_ostreamIcT_ES5_PKc(%\"class.std::basic_ostream\"*, i8*)}"];
+	Node0x1747f60 [shape=record,label="{\<0x1712c38-\>\>\n%\"class.std::basic_ostream\"* @_ZNSolsEi(%\"class.std::basic_ostream\"*, i32)}"];
+	Node0x1748110 [shape=record,label="{\<0x17130c8-\>\>\n%\"class.std::basic_ostream\"* @_ZNSolsEPFRSoS_E(%\"class.std::basic_ostream\"*, %\"class.std::basic_ostream\"* (%\"class.std::basic_ostream\"*)*)}"];
+	Node0x17482c0 [shape=record,label="{\<0x1713328-\>\>\nvoid @_ZN9LightBulb9setStatusEb(%class.LightBulb*, i1)}"];
+	Node0x17482c0 -> Node0x1753dc0;
+	Node0x1742ed0 [shape=record,label="{\<0x1713400-\>\>\ni32 @_ZNK9LightBulb12getIntensityEv(%class.LightBulb*)}"];
+	Node0x172ac40 [shape=record,label="{\<0x1713678-\>\>\n%\"class.std::basic_ostream\"* @_ZStlsISt11char_traitsIcEERSt13basic_ostreamIcT_ES5_PKc(%\"class.std::basic_ostream\"*, i8*)}"];
+	Node0x172adf0 [shape=record,label="{\<0x1713918-\>\>\n%\"class.std::basic_ostream\"* @_ZStlsISt11char_traitsIcEERSt13basic_ostreamIcT_ES5_PKc(%\"class.std::basic_ostream\"*, i8*)}"];
+	Node0x172afa0 [shape=record,label="{\<0x1713a08-\>\>\n%\"class.std::basic_ostream\"* @_ZStlsISt11char_traitsIcEERSt13basic_ostreamIcT_ES5_PKc(%\"class.std::basic_ostream\"*, i8*)}"];
+	Node0x1743000 [shape=record,label="{\<0x1713b08-\>\>\n%\"class.std::basic_ostream\"* @_ZNSolsEi(%\"class.std::basic_ostream\"*, i32)}"];
+	Node0x1735690 [shape=record,label="{\<0x1713ea8-\>\>\n%\"class.std::basic_ostream\"* @_ZNSolsEPFRSoS_E(%\"class.std::basic_ostream\"*, %\"class.std::basic_ostream\"* (%\"class.std::basic_ostream\"*)*)}"];
+	Node0x1736ad0 [shape=record,label="{\<0x1711e38-\>0x1714690-\>\>\nvoid @_ZN9LightBulb15adjustIntensityEv(%class.LightBulb*)}"];
+	Node0x1753dc0 [shape=record,label="{\<0x1713328-\>0x1714690-\>\>\nvoid @_ZN9LightBulb15adjustIntensityEv(%class.LightBulb*)}"];
+}

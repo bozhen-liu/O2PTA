@@ -1,0 +1,2508 @@
+Object 2 : 
+2
+<global>
+Offset:0
+
+Object 4 : 
+4
+<global>
+Offset:0
+
+Object 6 : 
+6
+<global>
+@_ZStL8__ioinit = internal global %"class.std::ios_base::Init" zeroinitializer, align 1
+Offset:0
+
+Object 9 : 
+9
+<global>
+@__dso_handle = external hidden global i8
+Offset:0
+
+Object 12 : 
+12
+<global>
+@.str = private unnamed_addr constant [17 x i8] c"The Great Gatsby\00", align 1
+Offset:0
+
+Object 15 : 
+15
+<global>
+@_ZSt4cout = external dso_local global %"class.std::basic_ostream", align 8
+Offset:0
+
+Object 18 : 
+18
+<global>
+@.str.1 = private unnamed_addr constant [18 x i8] c"Book 1: Title = \22\00", align 1
+Offset:0
+
+Object 21 : 
+21
+<global>
+@.str.2 = private unnamed_addr constant [9 x i8] c"\22, ID = \00", align 1
+Offset:0
+
+Object 24 : 
+24
+<global>
+@.str.3 = private unnamed_addr constant [17 x i8] c"Pointer Analysis\00", align 1
+Offset:0
+
+Object 27 : 
+27
+<global>
+@.str.4 = private unnamed_addr constant [18 x i8] c"Book 2: Title = \22\00", align 1
+Offset:0
+
+Object 30 : 
+30
+<global>
+@llvm.global_ctors = appending global [1 x { i32, void ()*, i8* }] [{ i32, void ()*, i8* } { i32 65535, void ()* @_GLOBAL__sub_I_zipper_directflow_library_struct.cpp, i8* null }]
+Offset:0
+
+Object 33 : 
+33
+<global>__cxx_global_var_init
+Offset:0
+
+Object 36 : 
+36
+<global>_ZNSt8ios_base4InitC1Ev
+Offset:0
+
+Object 39 : 
+39
+<global>_ZNSt8ios_base4InitD1Ev
+Offset:0
+
+Object 42 : 
+42
+<global>__cxa_atexit
+Offset:0
+
+Object 45 : 
+45
+<global>main
+Offset:0
+
+Object 48 : 
+48
+<global>_ZN4BookC2Ev
+Offset:0
+
+Object 51 : 
+51
+<global>_ZNSaIcEC1Ev
+Offset:0
+
+Object 54 : 
+54
+<global>_ZNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEC1EPKcRKS3_
+Offset:0
+
+Object 57 : 
+57
+<global>__gxx_personality_v0
+Offset:0
+
+Object 60 : 
+60
+<global>_ZNSaIcED1Ev
+Offset:0
+
+Object 63 : 
+63
+<global>_ZN4Book8setTitleERKNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEE
+Offset:0
+
+Object 66 : 
+66
+<global>_ZNK4Book5getIDEv
+Offset:0
+
+Object 69 : 
+69
+<global>_ZStlsISt11char_traitsIcEERSt13basic_ostreamIcT_ES5_PKc
+Offset:0
+
+Object 72 : 
+72
+<global>_ZStlsIcSt11char_traitsIcESaIcEERSt13basic_ostreamIT_T0_ES7_RKNSt7__cxx1112basic_stringIS4_S5_T1_EE
+Offset:0
+
+Object 75 : 
+75
+<global>_ZNK4Book8getTitleB5cxx11Ev
+Offset:0
+
+Object 78 : 
+78
+<global>_ZNSolsEi
+Offset:0
+
+Object 81 : 
+81
+<global>_ZNSolsEPFRSoS_E
+Offset:0
+
+Object 84 : 
+84
+<global>_ZSt4endlIcSt11char_traitsIcEERSt13basic_ostreamIT_T0_ES6_
+Offset:0
+
+Object 87 : 
+87
+<global>_ZNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEED1Ev
+Offset:0
+
+Object 90 : 
+90
+<global>_ZN4BookD2Ev
+Offset:0
+
+Object 93 : 
+93
+<global>_ZNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEC1Ev
+Offset:0
+
+Object 96 : 
+96
+<global>_ZNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEaSERKS4_
+Offset:0
+
+Object 99 : 
+99
+<global>_ZN4Book10generateIDEv
+Offset:0
+
+Object 102 : 
+102
+<global>_ZNKSt4hashINSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEEEclERKS5_
+Offset:0
+
+Object 105 : 
+105
+<global>_ZNSt10_Hash_impl4hashEPKvmm
+Offset:0
+
+Object 108 : 
+108
+<global>_ZNKSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEE4dataEv
+Offset:0
+
+Object 111 : 
+111
+<global>_ZNKSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEE6lengthEv
+Offset:0
+
+Object 114 : 
+114
+<global>__clang_call_terminate
+Offset:0
+
+Object 117 : 
+117
+<global>__cxa_begin_catch
+Offset:0
+
+Object 120 : 
+120
+<global>_ZSt9terminatev
+Offset:0
+
+Object 123 : 
+123
+<global>_ZSt11_Hash_bytesPKvmm
+Offset:0
+
+Object 126 : 
+126
+<global>_ZNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEC1ERKS4_
+Offset:0
+
+Object 129 : 
+129
+<global>_GLOBAL__sub_I_zipper_directflow_library_struct.cpp
+Offset:0
+
+Object 132 : 
+132
+<global>
+@llvm.global_ctors = appending global [1 x { i32, void ()*, i8* }] [{ i32, void ()*, i8* } { i32 65535, void ()* @_GLOBAL__sub_I_zipper_directflow_library_struct.cpp, i8* null }]
+Offset:8
+
+Object 134 : 
+134
+<empty>
+Offset:0
+
+Object 137 : 
+137
+<empty>
+Offset:0
+
+Object 140 : 
+140
+<empty>
+Offset:0
+
+Object 143 : 
+143
+<empty>
+Offset:0
+
+Object 146 : 
+146
+<empty>
+Offset:0
+
+Object 149 : 
+149
+<empty>
+Offset:0
+
+Object 152 : 
+152
+<empty>
+Offset:0
+
+Object 155 : 
+155
+<empty>
+Offset:0
+
+Object 158 : 
+158
+<empty>
+Offset:0
+
+Object 161 : 
+161
+<empty>
+Offset:0
+
+Object 164 : 
+164
+<empty>
+Offset:0
+
+Object 167 : 
+167
+<empty>
+Offset:0
+
+Object 170 : 
+170
+<empty>
+Offset:0
+
+Object 184 : 
+184
+<  call void @_ZN4BookC2Ev(%struct.Book* %2) #3;>
+Offset:0
+
+Object 190 : 
+190
+<  invoke void @_ZN4Book8setTitleERKNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEE(%struct.Book* %2, %"class.std::__cxx11::basic_string"* dereferenceable(32) %3)
+          to label %16 unwind label %aser.unreachable;>
+Offset:0
+
+Object 193 : 
+193
+<  invoke void @_ZN4Book8setTitleERKNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEE(%struct.Book* %2, %"class.std::__cxx11::basic_string"* dereferenceable(32) %3)
+          to label %16 unwind label %aser.unreachable;>
+Offset:0
+
+Object 200 : 
+200
+<  %17 = invoke i32 @_ZNK4Book5getIDEv(%struct.Book* %2)
+          to label %18 unwind label %aser.unreachable;>
+Offset:0
+
+Object 207 : 
+207
+<  invoke void @_ZNK4Book8getTitleB5cxx11Ev(%"class.std::__cxx11::basic_string"* sret %8, %struct.Book* %2)
+          to label %22 unwind label %aser.unreachable;>
+Offset:0
+
+Object 210 : 
+210
+<  invoke void @_ZNK4Book8getTitleB5cxx11Ev(%"class.std::__cxx11::basic_string"* sret %8, %struct.Book* %2)
+          to label %22 unwind label %aser.unreachable;>
+Offset:0
+
+Object 215 : 
+215
+<  call void @_ZN4BookC2Ev(%struct.Book* %9) #3;>
+Offset:0
+
+Object 221 : 
+221
+<  invoke void @_ZN4Book8setTitleERKNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEE(%struct.Book* %9, %"class.std::__cxx11::basic_string"* dereferenceable(32) %10)
+          to label %35 unwind label %aser.unreachable;>
+Offset:0
+
+Object 224 : 
+224
+<  invoke void @_ZN4Book8setTitleERKNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEE(%struct.Book* %9, %"class.std::__cxx11::basic_string"* dereferenceable(32) %10)
+          to label %35 unwind label %aser.unreachable;>
+Offset:0
+
+Object 231 : 
+231
+<  %36 = invoke i32 @_ZNK4Book5getIDEv(%struct.Book* %9)
+          to label %37 unwind label %aser.unreachable;>
+Offset:0
+
+Object 238 : 
+238
+<  invoke void @_ZNK4Book8getTitleB5cxx11Ev(%"class.std::__cxx11::basic_string"* sret %13, %struct.Book* %9)
+          to label %41 unwind label %aser.unreachable;>
+Offset:0
+
+Object 241 : 
+241
+<  invoke void @_ZNK4Book8getTitleB5cxx11Ev(%"class.std::__cxx11::basic_string"* sret %13, %struct.Book* %9)
+          to label %41 unwind label %aser.unreachable;>
+Offset:0
+
+Object 246 : 
+246
+<  call void @_ZN4BookD2Ev(%struct.Book* %9) #3;>
+Offset:0
+
+Object 251 : 
+251
+<  call void @_ZN4BookD2Ev(%struct.Book* %2) #3;>
+Offset:0
+
+Object 256 : 
+256
+<  invoke void @_ZN4Book8setTitleERKNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEE(%struct.Book* %2, %"class.std::__cxx11::basic_string"* dereferenceable(32) %3)
+          to label %16 unwind label %aser.unreachable;  call void @_ZN4Book10generateIDEv(%struct.Book* %5);>
+Offset:0
+
+Object 259 : 
+259
+<  invoke void @_ZN4Book8setTitleERKNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEE(%struct.Book* %2, %"class.std::__cxx11::basic_string"* dereferenceable(32) %3)
+          to label %16 unwind label %aser.unreachable;  call void @_ZN4Book10generateIDEv(%struct.Book* %5);>
+Offset:0
+
+Object 262 : 
+262
+<  invoke void @_ZN4Book8setTitleERKNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEE(%struct.Book* %2, %"class.std::__cxx11::basic_string"* dereferenceable(32) %3)
+          to label %16 unwind label %aser.unreachable;  call void @_ZN4Book10generateIDEv(%struct.Book* %5);>
+Offset:0
+
+Object 268 : 
+268
+<  invoke void @_ZN4Book8setTitleERKNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEE(%struct.Book* %9, %"class.std::__cxx11::basic_string"* dereferenceable(32) %10)
+          to label %35 unwind label %aser.unreachable;  call void @_ZN4Book10generateIDEv(%struct.Book* %5);>
+Offset:0
+
+Object 271 : 
+271
+<  invoke void @_ZN4Book8setTitleERKNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEE(%struct.Book* %9, %"class.std::__cxx11::basic_string"* dereferenceable(32) %10)
+          to label %35 unwind label %aser.unreachable;  call void @_ZN4Book10generateIDEv(%struct.Book* %5);>
+Offset:0
+
+Object 274 : 
+274
+<  invoke void @_ZN4Book8setTitleERKNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEE(%struct.Book* %9, %"class.std::__cxx11::basic_string"* dereferenceable(32) %10)
+          to label %35 unwind label %aser.unreachable;  call void @_ZN4Book10generateIDEv(%struct.Book* %5);>
+Offset:0
+
+Object 281 : 
+281
+<  call void @_ZN4Book10generateIDEv(%struct.Book* %5);  %7 = call i64 @_ZNKSt4hashINSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEEEclERKS5_(%"struct.std::hash"* %4, %"class.std::__cxx11::basic_string"* dereferenceable(32) %6) #3;>
+Offset:0
+
+Object 284 : 
+284
+<  call void @_ZN4Book10generateIDEv(%struct.Book* %5);  %7 = call i64 @_ZNKSt4hashINSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEEEclERKS5_(%"struct.std::hash"* %4, %"class.std::__cxx11::basic_string"* dereferenceable(32) %6) #3;>
+Offset:0
+
+Object 292 : 
+292
+<  %7 = call i64 @_ZNKSt4hashINSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEEEclERKS5_(%"struct.std::hash"* %4, %"class.std::__cxx11::basic_string"* dereferenceable(32) %6) #3;  %10 = invoke i64 @_ZNSt10_Hash_impl4hashEPKvmm(i8* %7, i64 %9, i64 3339675911)
+          to label %11 unwind label %aser.unreachable;>
+Offset:0
+
+Object 295 : 
+295
+<  %7 = call i64 @_ZNKSt4hashINSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEEEclERKS5_(%"struct.std::hash"* %4, %"class.std::__cxx11::basic_string"* dereferenceable(32) %6) #3;  %10 = invoke i64 @_ZNSt10_Hash_impl4hashEPKvmm(i8* %7, i64 %9, i64 3339675911)
+          to label %11 unwind label %aser.unreachable;>
+Offset:0
+
+Object 298 : 
+298
+<  %7 = call i64 @_ZNKSt4hashINSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEEEclERKS5_(%"struct.std::hash"* %4, %"class.std::__cxx11::basic_string"* dereferenceable(32) %6) #3;  %10 = invoke i64 @_ZNSt10_Hash_impl4hashEPKvmm(i8* %7, i64 %9, i64 3339675911)
+          to label %11 unwind label %aser.unreachable;>
+Offset:0
+
+Object 302 : 
+302
+<empty>
+Offset:32
+
+Object 304 : 
+304
+<empty>
+Offset:32
+
+0
+<global>
+i8* null
+ : {}
+
+
+1
+<global>
+i8* undef
+ : {}
+
+
+2
+<global>
+Offset:0
+ : {}
+
+
+3
+anonymous ptr : {2}
+
+
+4
+<global>
+Offset:0
+ : {}
+
+
+5
+anonymous ptr : {4}
+
+
+6
+<global>
+@_ZStL8__ioinit = internal global %"class.std::ios_base::Init" zeroinitializer, align 1
+Offset:0
+ : {}
+
+
+7
+anonymous ptr : {6}
+
+
+8
+<global>
+@_ZStL8__ioinit = internal global %"class.std::ios_base::Init" zeroinitializer, align 1
+ : {6}
+
+
+9
+<global>
+@__dso_handle = external hidden global i8
+Offset:0
+ : {}
+
+
+10
+anonymous ptr : {9}
+
+
+11
+<global>
+@__dso_handle = external hidden global i8
+ : {9}
+
+
+12
+<global>
+@.str = private unnamed_addr constant [17 x i8] c"The Great Gatsby\00", align 1
+Offset:0
+ : {}
+
+
+13
+anonymous ptr : {12}
+
+
+14
+<global>
+@.str = private unnamed_addr constant [17 x i8] c"The Great Gatsby\00", align 1
+ : {12}
+
+
+15
+<global>
+@_ZSt4cout = external dso_local global %"class.std::basic_ostream", align 8
+Offset:0
+ : {}
+
+
+16
+anonymous ptr : {15}
+
+
+17
+<global>
+@_ZSt4cout = external dso_local global %"class.std::basic_ostream", align 8
+ : {15}
+
+
+18
+<global>
+@.str.1 = private unnamed_addr constant [18 x i8] c"Book 1: Title = \22\00", align 1
+Offset:0
+ : {}
+
+
+19
+anonymous ptr : {18}
+
+
+20
+<global>
+@.str.1 = private unnamed_addr constant [18 x i8] c"Book 1: Title = \22\00", align 1
+ : {18}
+
+
+21
+<global>
+@.str.2 = private unnamed_addr constant [9 x i8] c"\22, ID = \00", align 1
+Offset:0
+ : {}
+
+
+22
+anonymous ptr : {21}
+
+
+23
+<global>
+@.str.2 = private unnamed_addr constant [9 x i8] c"\22, ID = \00", align 1
+ : {21}
+
+
+24
+<global>
+@.str.3 = private unnamed_addr constant [17 x i8] c"Pointer Analysis\00", align 1
+Offset:0
+ : {}
+
+
+25
+anonymous ptr : {24}
+
+
+26
+<global>
+@.str.3 = private unnamed_addr constant [17 x i8] c"Pointer Analysis\00", align 1
+ : {24}
+
+
+27
+<global>
+@.str.4 = private unnamed_addr constant [18 x i8] c"Book 2: Title = \22\00", align 1
+Offset:0
+ : {}
+
+
+28
+anonymous ptr : {27}
+
+
+29
+<global>
+@.str.4 = private unnamed_addr constant [18 x i8] c"Book 2: Title = \22\00", align 1
+ : {27}
+
+
+30
+<global>
+@llvm.global_ctors = appending global [1 x { i32, void ()*, i8* }] [{ i32, void ()*, i8* } { i32 65535, void ()* @_GLOBAL__sub_I_zipper_directflow_library_struct.cpp, i8* null }]
+Offset:0
+ : {}
+
+
+31
+anonymous ptr : {30}
+
+
+32
+<global>
+@llvm.global_ctors = appending global [1 x { i32, void ()*, i8* }] [{ i32, void ()*, i8* } { i32 65535, void ()* @_GLOBAL__sub_I_zipper_directflow_library_struct.cpp, i8* null }]
+ : {30}
+
+
+33
+<global>__cxx_global_var_init
+Offset:0
+ : {}
+
+
+34
+anonymous ptr : {33}
+
+
+35
+<global>
+
+; Function Attrs: noinline uwtable
+define internal void @__cxx_global_var_init() #0 section ".text.startup" {
+  call void @_ZNSt8ios_base4InitC1Ev(%"class.std::ios_base::Init"* @_ZStL8__ioinit)
+  %1 = bitcast void (%"class.std::ios_base::Init"*)* @_ZNSt8ios_base4InitD1Ev to void (i8*)*
+  %2 = getelementptr inbounds %"class.std::ios_base::Init", %"class.std::ios_base::Init"* @_ZStL8__ioinit, i32 0, i32 0
+  %3 = call i32 @__cxa_atexit(void (i8*)* %1, i8* %2, i8* @__dso_handle) #3
+  ret void
+}
+
+ : {33}
+
+
+36
+<global>_ZNSt8ios_base4InitC1Ev
+Offset:0
+ : {}
+
+
+37
+anonymous ptr : {36}
+
+
+38
+<global>
+
+declare dso_local void @_ZNSt8ios_base4InitC1Ev(%"class.std::ios_base::Init"*) unnamed_addr #1
+
+ : {36}
+
+
+39
+<global>_ZNSt8ios_base4InitD1Ev
+Offset:0
+ : {}
+
+
+40
+anonymous ptr : {39}
+
+
+41
+<global>
+
+; Function Attrs: nounwind
+declare dso_local void @_ZNSt8ios_base4InitD1Ev(%"class.std::ios_base::Init"*) unnamed_addr #2
+
+ : {39}
+
+
+42
+<global>__cxa_atexit
+Offset:0
+ : {}
+
+
+43
+anonymous ptr : {42}
+
+
+44
+<global>
+
+; Function Attrs: nounwind
+declare dso_local i32 @__cxa_atexit(void (i8*)*, i8*, i8*) #3
+
+ : {42}
+
+
+45
+<global>main
+Offset:0
+ : {}
+
+
+46
+anonymous ptr : {45}
+
+
+47
+<global>
+
+; Function Attrs: noinline norecurse optnone uwtable
+define dso_local i32 @main() #4 personality i8* bitcast (i32 (...)* @__gxx_personality_v0 to i8*) {
+  %1 = alloca i32, align 4
+  %2 = alloca %struct.Book, align 8
+  %3 = alloca %"class.std::__cxx11::basic_string", align 8
+  %4 = alloca %"class.std::allocator", align 1
+  %5 = alloca i8*
+  %6 = alloca i32
+  %7 = alloca i32, align 4
+  %8 = alloca %"class.std::__cxx11::basic_string", align 8
+  %9 = alloca %struct.Book, align 8
+  %10 = alloca %"class.std::__cxx11::basic_string", align 8
+  %11 = alloca %"class.std::allocator", align 1
+  %12 = alloca i32, align 4
+  %13 = alloca %"class.std::__cxx11::basic_string", align 8
+  store i32 0, i32* %1, align 4
+  call void @_ZN4BookC2Ev(%struct.Book* %2) #3
+  call void @_ZNSaIcEC1Ev(%"class.std::allocator"* %4) #3
+  %14 = getelementptr inbounds [17 x i8], [17 x i8]* @.str, i64 0, i64 0
+  invoke void @_ZNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEC1EPKcRKS3_(%"class.std::__cxx11::basic_string"* %3, i8* %14, %"class.std::allocator"* dereferenceable(1) %4)
+          to label %15 unwind label %aser.unreachable
+
+15:                                               ; preds = %0
+  call void @_ZNSaIcED1Ev(%"class.std::allocator"* %4) #3
+  invoke void @_ZN4Book8setTitleERKNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEE(%struct.Book* %2, %"class.std::__cxx11::basic_string"* dereferenceable(32) %3)
+          to label %16 unwind label %aser.unreachable
+
+16:                                               ; preds = %15
+  %17 = invoke i32 @_ZNK4Book5getIDEv(%struct.Book* %2)
+          to label %18 unwind label %aser.unreachable
+
+18:                                               ; preds = %16
+  store i32 %17, i32* %7, align 4
+  %19 = getelementptr inbounds [18 x i8], [18 x i8]* @.str.1, i64 0, i64 0
+  %20 = invoke dereferenceable(272) %"class.std::basic_ostream"* @_ZStlsISt11char_traitsIcEERSt13basic_ostreamIcT_ES5_PKc(%"class.std::basic_ostream"* dereferenceable(272) @_ZSt4cout, i8* %19)
+          to label %21 unwind label %aser.unreachable
+
+21:                                               ; preds = %18
+  invoke void @_ZNK4Book8getTitleB5cxx11Ev(%"class.std::__cxx11::basic_string"* sret %8, %struct.Book* %2)
+          to label %22 unwind label %aser.unreachable
+
+22:                                               ; preds = %21
+  %23 = invoke dereferenceable(272) %"class.std::basic_ostream"* @_ZStlsIcSt11char_traitsIcESaIcEERSt13basic_ostreamIT_T0_ES7_RKNSt7__cxx1112basic_stringIS4_S5_T1_EE(%"class.std::basic_ostream"* dereferenceable(272) %20, %"class.std::__cxx11::basic_string"* dereferenceable(32) %8)
+          to label %24 unwind label %aser.unreachable
+
+24:                                               ; preds = %22
+  %25 = getelementptr inbounds [9 x i8], [9 x i8]* @.str.2, i64 0, i64 0
+  %26 = invoke dereferenceable(272) %"class.std::basic_ostream"* @_ZStlsISt11char_traitsIcEERSt13basic_ostreamIcT_ES5_PKc(%"class.std::basic_ostream"* dereferenceable(272) %23, i8* %25)
+          to label %27 unwind label %aser.unreachable
+
+27:                                               ; preds = %24
+  %28 = load i32, i32* %7, align 4
+  %29 = invoke dereferenceable(272) %"class.std::basic_ostream"* @_ZNSolsEi(%"class.std::basic_ostream"* %26, i32 %28)
+          to label %30 unwind label %aser.unreachable
+
+30:                                               ; preds = %27
+  %31 = invoke dereferenceable(272) %"class.std::basic_ostream"* @_ZNSolsEPFRSoS_E(%"class.std::basic_ostream"* %29, %"class.std::basic_ostream"* (%"class.std::basic_ostream"*)* @_ZSt4endlIcSt11char_traitsIcEERSt13basic_ostreamIT_T0_ES6_)
+          to label %32 unwind label %aser.unreachable
+
+32:                                               ; preds = %30
+  call void @_ZNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEED1Ev(%"class.std::__cxx11::basic_string"* %8) #3
+  call void @_ZN4BookC2Ev(%struct.Book* %9) #3
+  call void @_ZNSaIcEC1Ev(%"class.std::allocator"* %11) #3
+  %33 = getelementptr inbounds [17 x i8], [17 x i8]* @.str.3, i64 0, i64 0
+  invoke void @_ZNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEC1EPKcRKS3_(%"class.std::__cxx11::basic_string"* %10, i8* %33, %"class.std::allocator"* dereferenceable(1) %11)
+          to label %34 unwind label %aser.unreachable
+
+34:                                               ; preds = %32
+  call void @_ZNSaIcED1Ev(%"class.std::allocator"* %11) #3
+  invoke void @_ZN4Book8setTitleERKNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEE(%struct.Book* %9, %"class.std::__cxx11::basic_string"* dereferenceable(32) %10)
+          to label %35 unwind label %aser.unreachable
+
+35:                                               ; preds = %34
+  %36 = invoke i32 @_ZNK4Book5getIDEv(%struct.Book* %9)
+          to label %37 unwind label %aser.unreachable
+
+37:                                               ; preds = %35
+  store i32 %36, i32* %12, align 4
+  %38 = getelementptr inbounds [18 x i8], [18 x i8]* @.str.4, i64 0, i64 0
+  %39 = invoke dereferenceable(272) %"class.std::basic_ostream"* @_ZStlsISt11char_traitsIcEERSt13basic_ostreamIcT_ES5_PKc(%"class.std::basic_ostream"* dereferenceable(272) @_ZSt4cout, i8* %38)
+          to label %40 unwind label %aser.unreachable
+
+40:                                               ; preds = %37
+  invoke void @_ZNK4Book8getTitleB5cxx11Ev(%"class.std::__cxx11::basic_string"* sret %13, %struct.Book* %9)
+          to label %41 unwind label %aser.unreachable
+
+41:                                               ; preds = %40
+  %42 = invoke dereferenceable(272) %"class.std::basic_ostream"* @_ZStlsIcSt11char_traitsIcESaIcEERSt13basic_ostreamIT_T0_ES7_RKNSt7__cxx1112basic_stringIS4_S5_T1_EE(%"class.std::basic_ostream"* dereferenceable(272) %39, %"class.std::__cxx11::basic_string"* dereferenceable(32) %13)
+          to label %43 unwind label %aser.unreachable
+
+43:                                               ; preds = %41
+  %44 = getelementptr inbounds [9 x i8], [9 x i8]* @.str.2, i64 0, i64 0
+  %45 = invoke dereferenceable(272) %"class.std::basic_ostream"* @_ZStlsISt11char_traitsIcEERSt13basic_ostreamIcT_ES5_PKc(%"class.std::basic_ostream"* dereferenceable(272) %42, i8* %44)
+          to label %46 unwind label %aser.unreachable
+
+46:                                               ; preds = %43
+  %47 = load i32, i32* %12, align 4
+  %48 = invoke dereferenceable(272) %"class.std::basic_ostream"* @_ZNSolsEi(%"class.std::basic_ostream"* %45, i32 %47)
+          to label %49 unwind label %aser.unreachable
+
+49:                                               ; preds = %46
+  %50 = invoke dereferenceable(272) %"class.std::basic_ostream"* @_ZNSolsEPFRSoS_E(%"class.std::basic_ostream"* %48, %"class.std::basic_ostream"* (%"class.std::basic_ostream"*)* @_ZSt4endlIcSt11char_traitsIcEERSt13basic_ostreamIT_T0_ES6_)
+          to label %51 unwind label %aser.unreachable
+
+51:                                               ; preds = %49
+  call void @_ZNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEED1Ev(%"class.std::__cxx11::basic_string"* %13) #3
+  store i32 0, i32* %1, align 4
+  call void @_ZNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEED1Ev(%"class.std::__cxx11::basic_string"* %10) #3
+  call void @_ZN4BookD2Ev(%struct.Book* %9) #3
+  call void @_ZNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEED1Ev(%"class.std::__cxx11::basic_string"* %3) #3
+  call void @_ZN4BookD2Ev(%struct.Book* %2) #3
+  %52 = load i32, i32* %1, align 4
+  ret i32 %52
+
+aser.unreachable:                                 ; preds = %49, %46, %43, %41, %40, %37, %35, %34, %32, %30, %27, %24, %22, %21, %18, %16, %15, %0
+  unreachable
+}
+
+ : {45}
+
+
+48
+<global>_ZN4BookC2Ev
+Offset:0
+ : {}
+
+
+49
+anonymous ptr : {48}
+
+
+50
+<global>
+
+; Function Attrs: noinline nounwind optnone uwtable
+define linkonce_odr dso_local void @_ZN4BookC2Ev(%struct.Book*) unnamed_addr #5 comdat align 2 {
+  %2 = alloca %struct.Book*, align 8
+  store %struct.Book* %0, %struct.Book** %2, align 8
+  %3 = load %struct.Book*, %struct.Book** %2, align 8
+  %4 = getelementptr inbounds %struct.Book, %struct.Book* %3, i32 0, i32 0
+  call void @_ZNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEC1Ev(%"class.std::__cxx11::basic_string"* %4) #3
+  ret void
+}
+
+ : {48}
+
+
+51
+<global>_ZNSaIcEC1Ev
+Offset:0
+ : {}
+
+
+52
+anonymous ptr : {51}
+
+
+53
+<global>
+
+; Function Attrs: nounwind
+declare dso_local void @_ZNSaIcEC1Ev(%"class.std::allocator"*) unnamed_addr #2
+
+ : {51}
+
+
+54
+<global>_ZNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEC1EPKcRKS3_
+Offset:0
+ : {}
+
+
+55
+anonymous ptr : {54}
+
+
+56
+<global>
+
+declare dso_local void @_ZNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEC1EPKcRKS3_(%"class.std::__cxx11::basic_string"*, i8*, %"class.std::allocator"* dereferenceable(1)) unnamed_addr #1
+
+ : {54}
+
+
+57
+<global>__gxx_personality_v0
+Offset:0
+ : {}
+
+
+58
+anonymous ptr : {57}
+
+
+59
+<global>
+
+declare dso_local i32 @__gxx_personality_v0(...)
+
+ : {57}
+
+
+60
+<global>_ZNSaIcED1Ev
+Offset:0
+ : {}
+
+
+61
+anonymous ptr : {60}
+
+
+62
+<global>
+
+; Function Attrs: nounwind
+declare dso_local void @_ZNSaIcED1Ev(%"class.std::allocator"*) unnamed_addr #2
+
+ : {60}
+
+
+63
+<global>_ZN4Book8setTitleERKNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEE
+Offset:0
+ : {}
+
+
+64
+anonymous ptr : {63}
+
+
+65
+<global>
+
+; Function Attrs: noinline optnone uwtable
+define linkonce_odr dso_local void @_ZN4Book8setTitleERKNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEE(%struct.Book*, %"class.std::__cxx11::basic_string"* dereferenceable(32)) #6 comdat align 2 {
+  %3 = alloca %struct.Book*, align 8
+  %4 = alloca %"class.std::__cxx11::basic_string"*, align 8
+  store %struct.Book* %0, %struct.Book** %3, align 8
+  store %"class.std::__cxx11::basic_string"* %1, %"class.std::__cxx11::basic_string"** %4, align 8
+  %5 = load %struct.Book*, %struct.Book** %3, align 8
+  %6 = load %"class.std::__cxx11::basic_string"*, %"class.std::__cxx11::basic_string"** %4, align 8
+  %7 = getelementptr inbounds %struct.Book, %struct.Book* %5, i32 0, i32 0
+  %8 = call dereferenceable(32) %"class.std::__cxx11::basic_string"* @_ZNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEaSERKS4_(%"class.std::__cxx11::basic_string"* %7, %"class.std::__cxx11::basic_string"* dereferenceable(32) %6)
+  call void @_ZN4Book10generateIDEv(%struct.Book* %5)
+  ret void
+}
+
+ : {63}
+
+
+66
+<global>_ZNK4Book5getIDEv
+Offset:0
+ : {}
+
+
+67
+anonymous ptr : {66}
+
+
+68
+<global>
+
+; Function Attrs: noinline nounwind optnone uwtable
+define linkonce_odr dso_local i32 @_ZNK4Book5getIDEv(%struct.Book*) #5 comdat align 2 {
+  %2 = alloca %struct.Book*, align 8
+  store %struct.Book* %0, %struct.Book** %2, align 8
+  %3 = load %struct.Book*, %struct.Book** %2, align 8
+  %4 = getelementptr inbounds %struct.Book, %struct.Book* %3, i32 0, i32 1
+  %5 = load i32, i32* %4, align 8
+  ret i32 %5
+}
+
+ : {66}
+
+
+69
+<global>_ZStlsISt11char_traitsIcEERSt13basic_ostreamIcT_ES5_PKc
+Offset:0
+ : {}
+
+
+70
+anonymous ptr : {69}
+
+
+71
+<global>
+
+declare dso_local dereferenceable(272) %"class.std::basic_ostream"* @_ZStlsISt11char_traitsIcEERSt13basic_ostreamIcT_ES5_PKc(%"class.std::basic_ostream"* dereferenceable(272), i8*) #1
+
+ : {69}
+
+
+72
+<global>_ZStlsIcSt11char_traitsIcESaIcEERSt13basic_ostreamIT_T0_ES7_RKNSt7__cxx1112basic_stringIS4_S5_T1_EE
+Offset:0
+ : {}
+
+
+73
+anonymous ptr : {72}
+
+
+74
+<global>
+
+declare dso_local dereferenceable(272) %"class.std::basic_ostream"* @_ZStlsIcSt11char_traitsIcESaIcEERSt13basic_ostreamIT_T0_ES7_RKNSt7__cxx1112basic_stringIS4_S5_T1_EE(%"class.std::basic_ostream"* dereferenceable(272), %"class.std::__cxx11::basic_string"* dereferenceable(32)) #1
+
+ : {72}
+
+
+75
+<global>_ZNK4Book8getTitleB5cxx11Ev
+Offset:0
+ : {}
+
+
+76
+anonymous ptr : {75}
+
+
+77
+<global>
+
+; Function Attrs: noinline optnone uwtable
+define linkonce_odr dso_local void @_ZNK4Book8getTitleB5cxx11Ev(%"class.std::__cxx11::basic_string"* noalias sret, %struct.Book*) #6 comdat align 2 {
+  %3 = alloca i8*, align 8
+  %4 = alloca %struct.Book*, align 8
+  %5 = bitcast %"class.std::__cxx11::basic_string"* %0 to i8*
+  store i8* %5, i8** %3, align 8
+  store %struct.Book* %1, %struct.Book** %4, align 8
+  %6 = load %struct.Book*, %struct.Book** %4, align 8
+  %7 = getelementptr inbounds %struct.Book, %struct.Book* %6, i32 0, i32 0
+  call void @_ZNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEC1ERKS4_(%"class.std::__cxx11::basic_string"* %0, %"class.std::__cxx11::basic_string"* dereferenceable(32) %7)
+  ret void
+}
+
+ : {75}
+
+
+78
+<global>_ZNSolsEi
+Offset:0
+ : {}
+
+
+79
+anonymous ptr : {78}
+
+
+80
+<global>
+
+declare dso_local dereferenceable(272) %"class.std::basic_ostream"* @_ZNSolsEi(%"class.std::basic_ostream"*, i32) #1
+
+ : {78}
+
+
+81
+<global>_ZNSolsEPFRSoS_E
+Offset:0
+ : {}
+
+
+82
+anonymous ptr : {81}
+
+
+83
+<global>
+
+declare dso_local dereferenceable(272) %"class.std::basic_ostream"* @_ZNSolsEPFRSoS_E(%"class.std::basic_ostream"*, %"class.std::basic_ostream"* (%"class.std::basic_ostream"*)*) #1
+
+ : {81}
+
+
+84
+<global>_ZSt4endlIcSt11char_traitsIcEERSt13basic_ostreamIT_T0_ES6_
+Offset:0
+ : {}
+
+
+85
+anonymous ptr : {84}
+
+
+86
+<global>
+
+declare dso_local dereferenceable(272) %"class.std::basic_ostream"* @_ZSt4endlIcSt11char_traitsIcEERSt13basic_ostreamIT_T0_ES6_(%"class.std::basic_ostream"* dereferenceable(272)) #1
+
+ : {84}
+
+
+87
+<global>_ZNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEED1Ev
+Offset:0
+ : {}
+
+
+88
+anonymous ptr : {87}
+
+
+89
+<global>
+
+; Function Attrs: nounwind
+declare dso_local void @_ZNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEED1Ev(%"class.std::__cxx11::basic_string"*) unnamed_addr #2
+
+ : {87}
+
+
+90
+<global>_ZN4BookD2Ev
+Offset:0
+ : {}
+
+
+91
+anonymous ptr : {90}
+
+
+92
+<global>
+
+; Function Attrs: noinline nounwind optnone uwtable
+define linkonce_odr dso_local void @_ZN4BookD2Ev(%struct.Book*) unnamed_addr #5 comdat align 2 {
+  %2 = alloca %struct.Book*, align 8
+  store %struct.Book* %0, %struct.Book** %2, align 8
+  %3 = load %struct.Book*, %struct.Book** %2, align 8
+  %4 = getelementptr inbounds %struct.Book, %struct.Book* %3, i32 0, i32 0
+  call void @_ZNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEED1Ev(%"class.std::__cxx11::basic_string"* %4) #3
+  ret void
+}
+
+ : {90}
+
+
+93
+<global>_ZNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEC1Ev
+Offset:0
+ : {}
+
+
+94
+anonymous ptr : {93}
+
+
+95
+<global>
+
+; Function Attrs: nounwind
+declare dso_local void @_ZNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEC1Ev(%"class.std::__cxx11::basic_string"*) unnamed_addr #2
+
+ : {93}
+
+
+96
+<global>_ZNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEaSERKS4_
+Offset:0
+ : {}
+
+
+97
+anonymous ptr : {96}
+
+
+98
+<global>
+
+declare dso_local dereferenceable(32) %"class.std::__cxx11::basic_string"* @_ZNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEaSERKS4_(%"class.std::__cxx11::basic_string"*, %"class.std::__cxx11::basic_string"* dereferenceable(32)) #1
+
+ : {96}
+
+
+99
+<global>_ZN4Book10generateIDEv
+Offset:0
+ : {}
+
+
+100
+anonymous ptr : {99}
+
+
+101
+<global>
+
+; Function Attrs: noinline nounwind optnone uwtable
+define linkonce_odr dso_local void @_ZN4Book10generateIDEv(%struct.Book*) #5 comdat align 2 {
+  %2 = alloca %struct.Book*, align 8
+  %3 = alloca i32, align 4
+  %4 = alloca %"struct.std::hash", align 1
+  store %struct.Book* %0, %struct.Book** %2, align 8
+  %5 = load %struct.Book*, %struct.Book** %2, align 8
+  %6 = getelementptr inbounds %struct.Book, %struct.Book* %5, i32 0, i32 0
+  %7 = call i64 @_ZNKSt4hashINSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEEEclERKS5_(%"struct.std::hash"* %4, %"class.std::__cxx11::basic_string"* dereferenceable(32) %6) #3
+  %8 = trunc i64 %7 to i32
+  store i32 %8, i32* %3, align 4
+  %9 = load i32, i32* %3, align 4
+  %10 = getelementptr inbounds %struct.Book, %struct.Book* %5, i32 0, i32 1
+  store i32 %9, i32* %10, align 8
+  ret void
+}
+
+ : {99}
+
+
+102
+<global>_ZNKSt4hashINSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEEEclERKS5_
+Offset:0
+ : {}
+
+
+103
+anonymous ptr : {102}
+
+
+104
+<global>
+
+; Function Attrs: noinline nounwind optnone uwtable
+define linkonce_odr dso_local i64 @_ZNKSt4hashINSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEEEclERKS5_(%"struct.std::hash"*, %"class.std::__cxx11::basic_string"* dereferenceable(32)) #5 comdat align 2 personality i8* bitcast (i32 (...)* @__gxx_personality_v0 to i8*) {
+  %3 = alloca %"struct.std::hash"*, align 8
+  %4 = alloca %"class.std::__cxx11::basic_string"*, align 8
+  store %"struct.std::hash"* %0, %"struct.std::hash"** %3, align 8
+  store %"class.std::__cxx11::basic_string"* %1, %"class.std::__cxx11::basic_string"** %4, align 8
+  %5 = load %"struct.std::hash"*, %"struct.std::hash"** %3, align 8
+  %6 = load %"class.std::__cxx11::basic_string"*, %"class.std::__cxx11::basic_string"** %4, align 8
+  %7 = call i8* @_ZNKSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEE4dataEv(%"class.std::__cxx11::basic_string"* %6) #3
+  %8 = load %"class.std::__cxx11::basic_string"*, %"class.std::__cxx11::basic_string"** %4, align 8
+  %9 = call i64 @_ZNKSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEE6lengthEv(%"class.std::__cxx11::basic_string"* %8) #3
+  %10 = invoke i64 @_ZNSt10_Hash_impl4hashEPKvmm(i8* %7, i64 %9, i64 3339675911)
+          to label %11 unwind label %aser.unreachable
+
+11:                                               ; preds = %2
+  ret i64 %10
+
+aser.unreachable:                                 ; preds = %2
+  unreachable
+}
+
+ : {102}
+
+
+105
+<global>_ZNSt10_Hash_impl4hashEPKvmm
+Offset:0
+ : {}
+
+
+106
+anonymous ptr : {105}
+
+
+107
+<global>
+
+; Function Attrs: noinline optnone uwtable
+define linkonce_odr dso_local i64 @_ZNSt10_Hash_impl4hashEPKvmm(i8*, i64, i64) #6 comdat align 2 {
+  %4 = alloca i8*, align 8
+  %5 = alloca i64, align 8
+  %6 = alloca i64, align 8
+  store i8* %0, i8** %4, align 8
+  store i64 %1, i64* %5, align 8
+  store i64 %2, i64* %6, align 8
+  %7 = load i8*, i8** %4, align 8
+  %8 = load i64, i64* %5, align 8
+  %9 = load i64, i64* %6, align 8
+  %10 = call i64 @_ZSt11_Hash_bytesPKvmm(i8* %7, i64 %8, i64 %9)
+  ret i64 %10
+}
+
+ : {105}
+
+
+108
+<global>_ZNKSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEE4dataEv
+Offset:0
+ : {}
+
+
+109
+anonymous ptr : {108}
+
+
+110
+<global>
+
+; Function Attrs: nounwind
+declare dso_local i8* @_ZNKSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEE4dataEv(%"class.std::__cxx11::basic_string"*) #2
+
+ : {108}
+
+
+111
+<global>_ZNKSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEE6lengthEv
+Offset:0
+ : {}
+
+
+112
+anonymous ptr : {111}
+
+
+113
+<global>
+
+; Function Attrs: nounwind
+declare dso_local i64 @_ZNKSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEE6lengthEv(%"class.std::__cxx11::basic_string"*) #2
+
+ : {111}
+
+
+114
+<global>__clang_call_terminate
+Offset:0
+ : {}
+
+
+115
+anonymous ptr : {114}
+
+
+116
+<global>
+
+; Function Attrs: noinline noreturn nounwind
+define linkonce_odr hidden void @__clang_call_terminate(i8*) #7 comdat {
+  %2 = call i8* @__cxa_begin_catch(i8* %0) #3
+  call void @_ZSt9terminatev() #8
+  unreachable
+}
+
+ : {114}
+
+
+117
+<global>__cxa_begin_catch
+Offset:0
+ : {}
+
+
+118
+anonymous ptr : {117}
+
+
+119
+<global>
+
+declare dso_local i8* @__cxa_begin_catch(i8*)
+
+ : {117}
+
+
+120
+<global>_ZSt9terminatev
+Offset:0
+ : {}
+
+
+121
+anonymous ptr : {120}
+
+
+122
+<global>
+
+declare dso_local void @_ZSt9terminatev()
+
+ : {120}
+
+
+123
+<global>_ZSt11_Hash_bytesPKvmm
+Offset:0
+ : {}
+
+
+124
+anonymous ptr : {123}
+
+
+125
+<global>
+
+declare dso_local i64 @_ZSt11_Hash_bytesPKvmm(i8*, i64, i64) #1
+
+ : {123}
+
+
+126
+<global>_ZNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEC1ERKS4_
+Offset:0
+ : {}
+
+
+127
+anonymous ptr : {126}
+
+
+128
+<global>
+
+declare dso_local void @_ZNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEC1ERKS4_(%"class.std::__cxx11::basic_string"*, %"class.std::__cxx11::basic_string"* dereferenceable(32)) unnamed_addr #1
+
+ : {126}
+
+
+129
+<global>_GLOBAL__sub_I_zipper_directflow_library_struct.cpp
+Offset:0
+ : {}
+
+
+130
+anonymous ptr : {129}
+
+
+131
+<global>
+
+; Function Attrs: noinline uwtable
+define internal void @_GLOBAL__sub_I_zipper_directflow_library_struct.cpp() #0 section ".text.startup" {
+  call void @__cxx_global_var_init()
+  ret void
+}
+
+ : {129}
+
+
+132
+<global>
+@llvm.global_ctors = appending global [1 x { i32, void ()*, i8* }] [{ i32, void ()*, i8* } { i32 65535, void ()* @_GLOBAL__sub_I_zipper_directflow_library_struct.cpp, i8* null }]
+Offset:8
+ : {129}
+
+
+133
+anonymous ptr : {132}
+
+
+134
+<empty>
+Offset:0
+ : {}
+
+
+135
+anonymous ptr : {134}
+
+
+136
+<empty>
+  %1 = alloca i32, align 4
+ : {134}
+
+
+137
+<empty>
+Offset:0
+ : {}
+
+
+138
+anonymous ptr : {137}
+
+
+139
+<empty>
+  %2 = alloca %struct.Book, align 8
+ : {137}
+
+
+140
+<empty>
+Offset:0
+ : {}
+
+
+141
+anonymous ptr : {140}
+
+
+142
+<empty>
+  %3 = alloca %"class.std::__cxx11::basic_string", align 8
+ : {140}
+
+
+143
+<empty>
+Offset:0
+ : {}
+
+
+144
+anonymous ptr : {143}
+
+
+145
+<empty>
+  %4 = alloca %"class.std::allocator", align 1
+ : {143}
+
+
+146
+<empty>
+Offset:0
+ : {}
+
+
+147
+anonymous ptr : {146}
+
+
+148
+<empty>
+  %5 = alloca i8*
+ : {146}
+
+
+149
+<empty>
+Offset:0
+ : {}
+
+
+150
+anonymous ptr : {149}
+
+
+151
+<empty>
+  %6 = alloca i32
+ : {149}
+
+
+152
+<empty>
+Offset:0
+ : {}
+
+
+153
+anonymous ptr : {152}
+
+
+154
+<empty>
+  %7 = alloca i32, align 4
+ : {152}
+
+
+155
+<empty>
+Offset:0
+ : {}
+
+
+156
+anonymous ptr : {155}
+
+
+157
+<empty>
+  %8 = alloca %"class.std::__cxx11::basic_string", align 8
+ : {155}
+
+
+158
+<empty>
+Offset:0
+ : {}
+
+
+159
+anonymous ptr : {158}
+
+
+160
+<empty>
+  %9 = alloca %struct.Book, align 8
+ : {158}
+
+
+161
+<empty>
+Offset:0
+ : {}
+
+
+162
+anonymous ptr : {161}
+
+
+163
+<empty>
+  %10 = alloca %"class.std::__cxx11::basic_string", align 8
+ : {161}
+
+
+164
+<empty>
+Offset:0
+ : {}
+
+
+165
+anonymous ptr : {164}
+
+
+166
+<empty>
+  %11 = alloca %"class.std::allocator", align 1
+ : {164}
+
+
+167
+<empty>
+Offset:0
+ : {}
+
+
+168
+anonymous ptr : {167}
+
+
+169
+<empty>
+  %12 = alloca i32, align 4
+ : {167}
+
+
+170
+<empty>
+Offset:0
+ : {}
+
+
+171
+anonymous ptr : {170}
+
+
+172
+<empty>
+  %13 = alloca %"class.std::__cxx11::basic_string", align 8
+ : {170}
+
+
+173
+<empty>
+  %20 = invoke dereferenceable(272) %"class.std::basic_ostream"* @_ZStlsISt11char_traitsIcEERSt13basic_ostreamIcT_ES5_PKc(%"class.std::basic_ostream"* dereferenceable(272) @_ZSt4cout, i8* %19)
+          to label %21 unwind label %aser.unreachable
+ : {}
+
+
+174
+<empty>
+  %23 = invoke dereferenceable(272) %"class.std::basic_ostream"* @_ZStlsIcSt11char_traitsIcESaIcEERSt13basic_ostreamIT_T0_ES7_RKNSt7__cxx1112basic_stringIS4_S5_T1_EE(%"class.std::basic_ostream"* dereferenceable(272) %20, %"class.std::__cxx11::basic_string"* dereferenceable(32) %8)
+          to label %24 unwind label %aser.unreachable
+ : {}
+
+
+175
+<empty>
+  %26 = invoke dereferenceable(272) %"class.std::basic_ostream"* @_ZStlsISt11char_traitsIcEERSt13basic_ostreamIcT_ES5_PKc(%"class.std::basic_ostream"* dereferenceable(272) %23, i8* %25)
+          to label %27 unwind label %aser.unreachable
+ : {}
+
+
+176
+<empty>
+  %29 = invoke dereferenceable(272) %"class.std::basic_ostream"* @_ZNSolsEi(%"class.std::basic_ostream"* %26, i32 %28)
+          to label %30 unwind label %aser.unreachable
+ : {}
+
+
+177
+<empty>
+  %31 = invoke dereferenceable(272) %"class.std::basic_ostream"* @_ZNSolsEPFRSoS_E(%"class.std::basic_ostream"* %29, %"class.std::basic_ostream"* (%"class.std::basic_ostream"*)* @_ZSt4endlIcSt11char_traitsIcEERSt13basic_ostreamIT_T0_ES6_)
+          to label %32 unwind label %aser.unreachable
+ : {}
+
+
+178
+<empty>
+  %39 = invoke dereferenceable(272) %"class.std::basic_ostream"* @_ZStlsISt11char_traitsIcEERSt13basic_ostreamIcT_ES5_PKc(%"class.std::basic_ostream"* dereferenceable(272) @_ZSt4cout, i8* %38)
+          to label %40 unwind label %aser.unreachable
+ : {}
+
+
+179
+<empty>
+  %42 = invoke dereferenceable(272) %"class.std::basic_ostream"* @_ZStlsIcSt11char_traitsIcESaIcEERSt13basic_ostreamIT_T0_ES7_RKNSt7__cxx1112basic_stringIS4_S5_T1_EE(%"class.std::basic_ostream"* dereferenceable(272) %39, %"class.std::__cxx11::basic_string"* dereferenceable(32) %13)
+          to label %43 unwind label %aser.unreachable
+ : {}
+
+
+180
+<empty>
+  %45 = invoke dereferenceable(272) %"class.std::basic_ostream"* @_ZStlsISt11char_traitsIcEERSt13basic_ostreamIcT_ES5_PKc(%"class.std::basic_ostream"* dereferenceable(272) %42, i8* %44)
+          to label %46 unwind label %aser.unreachable
+ : {}
+
+
+181
+<empty>
+  %48 = invoke dereferenceable(272) %"class.std::basic_ostream"* @_ZNSolsEi(%"class.std::basic_ostream"* %45, i32 %47)
+          to label %49 unwind label %aser.unreachable
+ : {}
+
+
+182
+<empty>
+  %50 = invoke dereferenceable(272) %"class.std::basic_ostream"* @_ZNSolsEPFRSoS_E(%"class.std::basic_ostream"* %48, %"class.std::basic_ostream"* (%"class.std::basic_ostream"*)* @_ZSt4endlIcSt11char_traitsIcEERSt13basic_ostreamIT_T0_ES6_)
+          to label %51 unwind label %aser.unreachable
+ : {}
+
+
+183
+<  call void @_ZN4BookC2Ev(%struct.Book* %2) #3;>
+%struct.Book* %0
+ : {137}
+
+
+184
+<  call void @_ZN4BookC2Ev(%struct.Book* %2) #3;>
+Offset:0
+ : {137}
+
+
+185
+anonymous ptr : {184}
+
+
+186
+<  call void @_ZN4BookC2Ev(%struct.Book* %2) #3;>
+  %2 = alloca %struct.Book*, align 8
+ : {184}
+
+
+187
+<  call void @_ZN4BookC2Ev(%struct.Book* %2) #3;>
+  %3 = load %struct.Book*, %struct.Book** %2, align 8
+ : {137}
+
+
+188
+<  invoke void @_ZN4Book8setTitleERKNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEE(%struct.Book* %2, %"class.std::__cxx11::basic_string"* dereferenceable(32) %3)
+          to label %16 unwind label %aser.unreachable;>
+%struct.Book* %0
+ : {137}
+
+
+189
+<  invoke void @_ZN4Book8setTitleERKNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEE(%struct.Book* %2, %"class.std::__cxx11::basic_string"* dereferenceable(32) %3)
+          to label %16 unwind label %aser.unreachable;>
+%"class.std::__cxx11::basic_string"* %1
+ : {140}
+
+
+190
+<  invoke void @_ZN4Book8setTitleERKNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEE(%struct.Book* %2, %"class.std::__cxx11::basic_string"* dereferenceable(32) %3)
+          to label %16 unwind label %aser.unreachable;>
+Offset:0
+ : {137}
+
+
+191
+anonymous ptr : {190}
+
+
+192
+<  invoke void @_ZN4Book8setTitleERKNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEE(%struct.Book* %2, %"class.std::__cxx11::basic_string"* dereferenceable(32) %3)
+          to label %16 unwind label %aser.unreachable;>
+  %3 = alloca %struct.Book*, align 8
+ : {190}
+
+
+193
+<  invoke void @_ZN4Book8setTitleERKNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEE(%struct.Book* %2, %"class.std::__cxx11::basic_string"* dereferenceable(32) %3)
+          to label %16 unwind label %aser.unreachable;>
+Offset:0
+ : {140}
+
+
+194
+anonymous ptr : {193}
+
+
+195
+<  invoke void @_ZN4Book8setTitleERKNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEE(%struct.Book* %2, %"class.std::__cxx11::basic_string"* dereferenceable(32) %3)
+          to label %16 unwind label %aser.unreachable;>
+  %4 = alloca %"class.std::__cxx11::basic_string"*, align 8
+ : {193}
+
+
+196
+<  invoke void @_ZN4Book8setTitleERKNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEE(%struct.Book* %2, %"class.std::__cxx11::basic_string"* dereferenceable(32) %3)
+          to label %16 unwind label %aser.unreachable;>
+  %5 = load %struct.Book*, %struct.Book** %3, align 8
+ : {137}
+
+
+197
+<  invoke void @_ZN4Book8setTitleERKNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEE(%struct.Book* %2, %"class.std::__cxx11::basic_string"* dereferenceable(32) %3)
+          to label %16 unwind label %aser.unreachable;>
+  %6 = load %"class.std::__cxx11::basic_string"*, %"class.std::__cxx11::basic_string"** %4, align 8
+ : {140}
+
+
+198
+<  invoke void @_ZN4Book8setTitleERKNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEE(%struct.Book* %2, %"class.std::__cxx11::basic_string"* dereferenceable(32) %3)
+          to label %16 unwind label %aser.unreachable;>
+  %8 = call dereferenceable(32) %"class.std::__cxx11::basic_string"* @_ZNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEaSERKS4_(%"class.std::__cxx11::basic_string"* %7, %"class.std::__cxx11::basic_string"* dereferenceable(32) %6)
+ : {}
+
+
+199
+<  %17 = invoke i32 @_ZNK4Book5getIDEv(%struct.Book* %2)
+          to label %18 unwind label %aser.unreachable;>
+%struct.Book* %0
+ : {137}
+
+
+200
+<  %17 = invoke i32 @_ZNK4Book5getIDEv(%struct.Book* %2)
+          to label %18 unwind label %aser.unreachable;>
+Offset:0
+ : {137}
+
+
+201
+anonymous ptr : {200}
+
+
+202
+<  %17 = invoke i32 @_ZNK4Book5getIDEv(%struct.Book* %2)
+          to label %18 unwind label %aser.unreachable;>
+  %2 = alloca %struct.Book*, align 8
+ : {200}
+
+
+203
+<  %17 = invoke i32 @_ZNK4Book5getIDEv(%struct.Book* %2)
+          to label %18 unwind label %aser.unreachable;>
+  %3 = load %struct.Book*, %struct.Book** %2, align 8
+ : {137}
+
+
+204
+<  %17 = invoke i32 @_ZNK4Book5getIDEv(%struct.Book* %2)
+          to label %18 unwind label %aser.unreachable;>
+  %4 = getelementptr inbounds %struct.Book, %struct.Book* %3, i32 0, i32 1
+ : {302}
+
+
+205
+<  invoke void @_ZNK4Book8getTitleB5cxx11Ev(%"class.std::__cxx11::basic_string"* sret %8, %struct.Book* %2)
+          to label %22 unwind label %aser.unreachable;>
+%"class.std::__cxx11::basic_string"* %0
+ : {155}
+
+
+206
+<  invoke void @_ZNK4Book8getTitleB5cxx11Ev(%"class.std::__cxx11::basic_string"* sret %8, %struct.Book* %2)
+          to label %22 unwind label %aser.unreachable;>
+%struct.Book* %1
+ : {137}
+
+
+207
+<  invoke void @_ZNK4Book8getTitleB5cxx11Ev(%"class.std::__cxx11::basic_string"* sret %8, %struct.Book* %2)
+          to label %22 unwind label %aser.unreachable;>
+Offset:0
+ : {155}
+
+
+208
+anonymous ptr : {207}
+
+
+209
+<  invoke void @_ZNK4Book8getTitleB5cxx11Ev(%"class.std::__cxx11::basic_string"* sret %8, %struct.Book* %2)
+          to label %22 unwind label %aser.unreachable;>
+  %3 = alloca i8*, align 8
+ : {207}
+
+
+210
+<  invoke void @_ZNK4Book8getTitleB5cxx11Ev(%"class.std::__cxx11::basic_string"* sret %8, %struct.Book* %2)
+          to label %22 unwind label %aser.unreachable;>
+Offset:0
+ : {137}
+
+
+211
+anonymous ptr : {210}
+
+
+212
+<  invoke void @_ZNK4Book8getTitleB5cxx11Ev(%"class.std::__cxx11::basic_string"* sret %8, %struct.Book* %2)
+          to label %22 unwind label %aser.unreachable;>
+  %4 = alloca %struct.Book*, align 8
+ : {210}
+
+
+213
+<  invoke void @_ZNK4Book8getTitleB5cxx11Ev(%"class.std::__cxx11::basic_string"* sret %8, %struct.Book* %2)
+          to label %22 unwind label %aser.unreachable;>
+  %6 = load %struct.Book*, %struct.Book** %4, align 8
+ : {137}
+
+
+214
+<  call void @_ZN4BookC2Ev(%struct.Book* %9) #3;>
+%struct.Book* %0
+ : {158}
+
+
+215
+<  call void @_ZN4BookC2Ev(%struct.Book* %9) #3;>
+Offset:0
+ : {158}
+
+
+216
+anonymous ptr : {215}
+
+
+217
+<  call void @_ZN4BookC2Ev(%struct.Book* %9) #3;>
+  %2 = alloca %struct.Book*, align 8
+ : {215}
+
+
+218
+<  call void @_ZN4BookC2Ev(%struct.Book* %9) #3;>
+  %3 = load %struct.Book*, %struct.Book** %2, align 8
+ : {158}
+
+
+219
+<  invoke void @_ZN4Book8setTitleERKNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEE(%struct.Book* %9, %"class.std::__cxx11::basic_string"* dereferenceable(32) %10)
+          to label %35 unwind label %aser.unreachable;>
+%struct.Book* %0
+ : {158}
+
+
+220
+<  invoke void @_ZN4Book8setTitleERKNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEE(%struct.Book* %9, %"class.std::__cxx11::basic_string"* dereferenceable(32) %10)
+          to label %35 unwind label %aser.unreachable;>
+%"class.std::__cxx11::basic_string"* %1
+ : {161}
+
+
+221
+<  invoke void @_ZN4Book8setTitleERKNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEE(%struct.Book* %9, %"class.std::__cxx11::basic_string"* dereferenceable(32) %10)
+          to label %35 unwind label %aser.unreachable;>
+Offset:0
+ : {158}
+
+
+222
+anonymous ptr : {221}
+
+
+223
+<  invoke void @_ZN4Book8setTitleERKNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEE(%struct.Book* %9, %"class.std::__cxx11::basic_string"* dereferenceable(32) %10)
+          to label %35 unwind label %aser.unreachable;>
+  %3 = alloca %struct.Book*, align 8
+ : {221}
+
+
+224
+<  invoke void @_ZN4Book8setTitleERKNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEE(%struct.Book* %9, %"class.std::__cxx11::basic_string"* dereferenceable(32) %10)
+          to label %35 unwind label %aser.unreachable;>
+Offset:0
+ : {161}
+
+
+225
+anonymous ptr : {224}
+
+
+226
+<  invoke void @_ZN4Book8setTitleERKNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEE(%struct.Book* %9, %"class.std::__cxx11::basic_string"* dereferenceable(32) %10)
+          to label %35 unwind label %aser.unreachable;>
+  %4 = alloca %"class.std::__cxx11::basic_string"*, align 8
+ : {224}
+
+
+227
+<  invoke void @_ZN4Book8setTitleERKNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEE(%struct.Book* %9, %"class.std::__cxx11::basic_string"* dereferenceable(32) %10)
+          to label %35 unwind label %aser.unreachable;>
+  %5 = load %struct.Book*, %struct.Book** %3, align 8
+ : {158}
+
+
+228
+<  invoke void @_ZN4Book8setTitleERKNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEE(%struct.Book* %9, %"class.std::__cxx11::basic_string"* dereferenceable(32) %10)
+          to label %35 unwind label %aser.unreachable;>
+  %6 = load %"class.std::__cxx11::basic_string"*, %"class.std::__cxx11::basic_string"** %4, align 8
+ : {161}
+
+
+229
+<  invoke void @_ZN4Book8setTitleERKNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEE(%struct.Book* %9, %"class.std::__cxx11::basic_string"* dereferenceable(32) %10)
+          to label %35 unwind label %aser.unreachable;>
+  %8 = call dereferenceable(32) %"class.std::__cxx11::basic_string"* @_ZNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEaSERKS4_(%"class.std::__cxx11::basic_string"* %7, %"class.std::__cxx11::basic_string"* dereferenceable(32) %6)
+ : {}
+
+
+230
+<  %36 = invoke i32 @_ZNK4Book5getIDEv(%struct.Book* %9)
+          to label %37 unwind label %aser.unreachable;>
+%struct.Book* %0
+ : {158}
+
+
+231
+<  %36 = invoke i32 @_ZNK4Book5getIDEv(%struct.Book* %9)
+          to label %37 unwind label %aser.unreachable;>
+Offset:0
+ : {158}
+
+
+232
+anonymous ptr : {231}
+
+
+233
+<  %36 = invoke i32 @_ZNK4Book5getIDEv(%struct.Book* %9)
+          to label %37 unwind label %aser.unreachable;>
+  %2 = alloca %struct.Book*, align 8
+ : {231}
+
+
+234
+<  %36 = invoke i32 @_ZNK4Book5getIDEv(%struct.Book* %9)
+          to label %37 unwind label %aser.unreachable;>
+  %3 = load %struct.Book*, %struct.Book** %2, align 8
+ : {158}
+
+
+235
+<  %36 = invoke i32 @_ZNK4Book5getIDEv(%struct.Book* %9)
+          to label %37 unwind label %aser.unreachable;>
+  %4 = getelementptr inbounds %struct.Book, %struct.Book* %3, i32 0, i32 1
+ : {304}
+
+
+236
+<  invoke void @_ZNK4Book8getTitleB5cxx11Ev(%"class.std::__cxx11::basic_string"* sret %13, %struct.Book* %9)
+          to label %41 unwind label %aser.unreachable;>
+%"class.std::__cxx11::basic_string"* %0
+ : {170}
+
+
+237
+<  invoke void @_ZNK4Book8getTitleB5cxx11Ev(%"class.std::__cxx11::basic_string"* sret %13, %struct.Book* %9)
+          to label %41 unwind label %aser.unreachable;>
+%struct.Book* %1
+ : {158}
+
+
+238
+<  invoke void @_ZNK4Book8getTitleB5cxx11Ev(%"class.std::__cxx11::basic_string"* sret %13, %struct.Book* %9)
+          to label %41 unwind label %aser.unreachable;>
+Offset:0
+ : {170}
+
+
+239
+anonymous ptr : {238}
+
+
+240
+<  invoke void @_ZNK4Book8getTitleB5cxx11Ev(%"class.std::__cxx11::basic_string"* sret %13, %struct.Book* %9)
+          to label %41 unwind label %aser.unreachable;>
+  %3 = alloca i8*, align 8
+ : {238}
+
+
+241
+<  invoke void @_ZNK4Book8getTitleB5cxx11Ev(%"class.std::__cxx11::basic_string"* sret %13, %struct.Book* %9)
+          to label %41 unwind label %aser.unreachable;>
+Offset:0
+ : {158}
+
+
+242
+anonymous ptr : {241}
+
+
+243
+<  invoke void @_ZNK4Book8getTitleB5cxx11Ev(%"class.std::__cxx11::basic_string"* sret %13, %struct.Book* %9)
+          to label %41 unwind label %aser.unreachable;>
+  %4 = alloca %struct.Book*, align 8
+ : {241}
+
+
+244
+<  invoke void @_ZNK4Book8getTitleB5cxx11Ev(%"class.std::__cxx11::basic_string"* sret %13, %struct.Book* %9)
+          to label %41 unwind label %aser.unreachable;>
+  %6 = load %struct.Book*, %struct.Book** %4, align 8
+ : {158}
+
+
+245
+<  call void @_ZN4BookD2Ev(%struct.Book* %9) #3;>
+%struct.Book* %0
+ : {158}
+
+
+246
+<  call void @_ZN4BookD2Ev(%struct.Book* %9) #3;>
+Offset:0
+ : {158}
+
+
+247
+anonymous ptr : {246}
+
+
+248
+<  call void @_ZN4BookD2Ev(%struct.Book* %9) #3;>
+  %2 = alloca %struct.Book*, align 8
+ : {246}
+
+
+249
+<  call void @_ZN4BookD2Ev(%struct.Book* %9) #3;>
+  %3 = load %struct.Book*, %struct.Book** %2, align 8
+ : {158}
+
+
+250
+<  call void @_ZN4BookD2Ev(%struct.Book* %2) #3;>
+%struct.Book* %0
+ : {137}
+
+
+251
+<  call void @_ZN4BookD2Ev(%struct.Book* %2) #3;>
+Offset:0
+ : {137}
+
+
+252
+anonymous ptr : {251}
+
+
+253
+<  call void @_ZN4BookD2Ev(%struct.Book* %2) #3;>
+  %2 = alloca %struct.Book*, align 8
+ : {251}
+
+
+254
+<  call void @_ZN4BookD2Ev(%struct.Book* %2) #3;>
+  %3 = load %struct.Book*, %struct.Book** %2, align 8
+ : {137}
+
+
+255
+<  invoke void @_ZN4Book8setTitleERKNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEE(%struct.Book* %2, %"class.std::__cxx11::basic_string"* dereferenceable(32) %3)
+          to label %16 unwind label %aser.unreachable;  call void @_ZN4Book10generateIDEv(%struct.Book* %5);>
+%struct.Book* %0
+ : {137}
+
+
+256
+<  invoke void @_ZN4Book8setTitleERKNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEE(%struct.Book* %2, %"class.std::__cxx11::basic_string"* dereferenceable(32) %3)
+          to label %16 unwind label %aser.unreachable;  call void @_ZN4Book10generateIDEv(%struct.Book* %5);>
+Offset:0
+ : {137}
+
+
+257
+anonymous ptr : {256}
+
+
+258
+<  invoke void @_ZN4Book8setTitleERKNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEE(%struct.Book* %2, %"class.std::__cxx11::basic_string"* dereferenceable(32) %3)
+          to label %16 unwind label %aser.unreachable;  call void @_ZN4Book10generateIDEv(%struct.Book* %5);>
+  %2 = alloca %struct.Book*, align 8
+ : {256}
+
+
+259
+<  invoke void @_ZN4Book8setTitleERKNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEE(%struct.Book* %2, %"class.std::__cxx11::basic_string"* dereferenceable(32) %3)
+          to label %16 unwind label %aser.unreachable;  call void @_ZN4Book10generateIDEv(%struct.Book* %5);>
+Offset:0
+ : {}
+
+
+260
+anonymous ptr : {259}
+
+
+261
+<  invoke void @_ZN4Book8setTitleERKNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEE(%struct.Book* %2, %"class.std::__cxx11::basic_string"* dereferenceable(32) %3)
+          to label %16 unwind label %aser.unreachable;  call void @_ZN4Book10generateIDEv(%struct.Book* %5);>
+  %3 = alloca i32, align 4
+ : {259}
+
+
+262
+<  invoke void @_ZN4Book8setTitleERKNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEE(%struct.Book* %2, %"class.std::__cxx11::basic_string"* dereferenceable(32) %3)
+          to label %16 unwind label %aser.unreachable;  call void @_ZN4Book10generateIDEv(%struct.Book* %5);>
+Offset:0
+ : {}
+
+
+263
+anonymous ptr : {262}
+
+
+264
+<  invoke void @_ZN4Book8setTitleERKNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEE(%struct.Book* %2, %"class.std::__cxx11::basic_string"* dereferenceable(32) %3)
+          to label %16 unwind label %aser.unreachable;  call void @_ZN4Book10generateIDEv(%struct.Book* %5);>
+  %4 = alloca %"struct.std::hash", align 1
+ : {262}
+
+
+265
+<  invoke void @_ZN4Book8setTitleERKNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEE(%struct.Book* %2, %"class.std::__cxx11::basic_string"* dereferenceable(32) %3)
+          to label %16 unwind label %aser.unreachable;  call void @_ZN4Book10generateIDEv(%struct.Book* %5);>
+  %5 = load %struct.Book*, %struct.Book** %2, align 8
+ : {137}
+
+
+266
+<  invoke void @_ZN4Book8setTitleERKNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEE(%struct.Book* %2, %"class.std::__cxx11::basic_string"* dereferenceable(32) %3)
+          to label %16 unwind label %aser.unreachable;  call void @_ZN4Book10generateIDEv(%struct.Book* %5);>
+  %10 = getelementptr inbounds %struct.Book, %struct.Book* %5, i32 0, i32 1
+ : {302}
+
+
+267
+<  invoke void @_ZN4Book8setTitleERKNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEE(%struct.Book* %9, %"class.std::__cxx11::basic_string"* dereferenceable(32) %10)
+          to label %35 unwind label %aser.unreachable;  call void @_ZN4Book10generateIDEv(%struct.Book* %5);>
+%struct.Book* %0
+ : {158}
+
+
+268
+<  invoke void @_ZN4Book8setTitleERKNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEE(%struct.Book* %9, %"class.std::__cxx11::basic_string"* dereferenceable(32) %10)
+          to label %35 unwind label %aser.unreachable;  call void @_ZN4Book10generateIDEv(%struct.Book* %5);>
+Offset:0
+ : {158}
+
+
+269
+anonymous ptr : {268}
+
+
+270
+<  invoke void @_ZN4Book8setTitleERKNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEE(%struct.Book* %9, %"class.std::__cxx11::basic_string"* dereferenceable(32) %10)
+          to label %35 unwind label %aser.unreachable;  call void @_ZN4Book10generateIDEv(%struct.Book* %5);>
+  %2 = alloca %struct.Book*, align 8
+ : {268}
+
+
+271
+<  invoke void @_ZN4Book8setTitleERKNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEE(%struct.Book* %9, %"class.std::__cxx11::basic_string"* dereferenceable(32) %10)
+          to label %35 unwind label %aser.unreachable;  call void @_ZN4Book10generateIDEv(%struct.Book* %5);>
+Offset:0
+ : {}
+
+
+272
+anonymous ptr : {271}
+
+
+273
+<  invoke void @_ZN4Book8setTitleERKNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEE(%struct.Book* %9, %"class.std::__cxx11::basic_string"* dereferenceable(32) %10)
+          to label %35 unwind label %aser.unreachable;  call void @_ZN4Book10generateIDEv(%struct.Book* %5);>
+  %3 = alloca i32, align 4
+ : {271}
+
+
+274
+<  invoke void @_ZN4Book8setTitleERKNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEE(%struct.Book* %9, %"class.std::__cxx11::basic_string"* dereferenceable(32) %10)
+          to label %35 unwind label %aser.unreachable;  call void @_ZN4Book10generateIDEv(%struct.Book* %5);>
+Offset:0
+ : {}
+
+
+275
+anonymous ptr : {274}
+
+
+276
+<  invoke void @_ZN4Book8setTitleERKNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEE(%struct.Book* %9, %"class.std::__cxx11::basic_string"* dereferenceable(32) %10)
+          to label %35 unwind label %aser.unreachable;  call void @_ZN4Book10generateIDEv(%struct.Book* %5);>
+  %4 = alloca %"struct.std::hash", align 1
+ : {274}
+
+
+277
+<  invoke void @_ZN4Book8setTitleERKNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEE(%struct.Book* %9, %"class.std::__cxx11::basic_string"* dereferenceable(32) %10)
+          to label %35 unwind label %aser.unreachable;  call void @_ZN4Book10generateIDEv(%struct.Book* %5);>
+  %5 = load %struct.Book*, %struct.Book** %2, align 8
+ : {158}
+
+
+278
+<  invoke void @_ZN4Book8setTitleERKNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEE(%struct.Book* %9, %"class.std::__cxx11::basic_string"* dereferenceable(32) %10)
+          to label %35 unwind label %aser.unreachable;  call void @_ZN4Book10generateIDEv(%struct.Book* %5);>
+  %10 = getelementptr inbounds %struct.Book, %struct.Book* %5, i32 0, i32 1
+ : {304}
+
+
+279
+<  call void @_ZN4Book10generateIDEv(%struct.Book* %5);  %7 = call i64 @_ZNKSt4hashINSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEEEclERKS5_(%"struct.std::hash"* %4, %"class.std::__cxx11::basic_string"* dereferenceable(32) %6) #3;>
+%"struct.std::hash"* %0
+ : {262 ,274}
+
+
+280
+<  call void @_ZN4Book10generateIDEv(%struct.Book* %5);  %7 = call i64 @_ZNKSt4hashINSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEEEclERKS5_(%"struct.std::hash"* %4, %"class.std::__cxx11::basic_string"* dereferenceable(32) %6) #3;>
+%"class.std::__cxx11::basic_string"* %1
+ : {137 ,158}
+
+
+281
+<  call void @_ZN4Book10generateIDEv(%struct.Book* %5);  %7 = call i64 @_ZNKSt4hashINSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEEEclERKS5_(%"struct.std::hash"* %4, %"class.std::__cxx11::basic_string"* dereferenceable(32) %6) #3;>
+Offset:0
+ : {262 ,274}
+
+
+282
+anonymous ptr : {281}
+
+
+283
+<  call void @_ZN4Book10generateIDEv(%struct.Book* %5);  %7 = call i64 @_ZNKSt4hashINSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEEEclERKS5_(%"struct.std::hash"* %4, %"class.std::__cxx11::basic_string"* dereferenceable(32) %6) #3;>
+  %3 = alloca %"struct.std::hash"*, align 8
+ : {281}
+
+
+284
+<  call void @_ZN4Book10generateIDEv(%struct.Book* %5);  %7 = call i64 @_ZNKSt4hashINSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEEEclERKS5_(%"struct.std::hash"* %4, %"class.std::__cxx11::basic_string"* dereferenceable(32) %6) #3;>
+Offset:0
+ : {137 ,158}
+
+
+285
+anonymous ptr : {284}
+
+
+286
+<  call void @_ZN4Book10generateIDEv(%struct.Book* %5);  %7 = call i64 @_ZNKSt4hashINSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEEEclERKS5_(%"struct.std::hash"* %4, %"class.std::__cxx11::basic_string"* dereferenceable(32) %6) #3;>
+  %4 = alloca %"class.std::__cxx11::basic_string"*, align 8
+ : {284}
+
+
+287
+<  call void @_ZN4Book10generateIDEv(%struct.Book* %5);  %7 = call i64 @_ZNKSt4hashINSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEEEclERKS5_(%"struct.std::hash"* %4, %"class.std::__cxx11::basic_string"* dereferenceable(32) %6) #3;>
+  %5 = load %"struct.std::hash"*, %"struct.std::hash"** %3, align 8
+ : {262 ,274}
+
+
+288
+<  call void @_ZN4Book10generateIDEv(%struct.Book* %5);  %7 = call i64 @_ZNKSt4hashINSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEEEclERKS5_(%"struct.std::hash"* %4, %"class.std::__cxx11::basic_string"* dereferenceable(32) %6) #3;>
+  %6 = load %"class.std::__cxx11::basic_string"*, %"class.std::__cxx11::basic_string"** %4, align 8
+ : {137 ,158}
+
+
+289
+<  call void @_ZN4Book10generateIDEv(%struct.Book* %5);  %7 = call i64 @_ZNKSt4hashINSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEEEclERKS5_(%"struct.std::hash"* %4, %"class.std::__cxx11::basic_string"* dereferenceable(32) %6) #3;>
+  %7 = call i8* @_ZNKSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEE4dataEv(%"class.std::__cxx11::basic_string"* %6) #3
+ : {}
+
+
+290
+<  call void @_ZN4Book10generateIDEv(%struct.Book* %5);  %7 = call i64 @_ZNKSt4hashINSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEEEclERKS5_(%"struct.std::hash"* %4, %"class.std::__cxx11::basic_string"* dereferenceable(32) %6) #3;>
+  %8 = load %"class.std::__cxx11::basic_string"*, %"class.std::__cxx11::basic_string"** %4, align 8
+ : {137 ,158}
+
+
+291
+<  %7 = call i64 @_ZNKSt4hashINSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEEEclERKS5_(%"struct.std::hash"* %4, %"class.std::__cxx11::basic_string"* dereferenceable(32) %6) #3;  %10 = invoke i64 @_ZNSt10_Hash_impl4hashEPKvmm(i8* %7, i64 %9, i64 3339675911)
+          to label %11 unwind label %aser.unreachable;>
+i8* %0
+ : {}
+
+
+292
+<  %7 = call i64 @_ZNKSt4hashINSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEEEclERKS5_(%"struct.std::hash"* %4, %"class.std::__cxx11::basic_string"* dereferenceable(32) %6) #3;  %10 = invoke i64 @_ZNSt10_Hash_impl4hashEPKvmm(i8* %7, i64 %9, i64 3339675911)
+          to label %11 unwind label %aser.unreachable;>
+Offset:0
+ : {}
+
+
+293
+anonymous ptr : {292}
+
+
+294
+<  %7 = call i64 @_ZNKSt4hashINSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEEEclERKS5_(%"struct.std::hash"* %4, %"class.std::__cxx11::basic_string"* dereferenceable(32) %6) #3;  %10 = invoke i64 @_ZNSt10_Hash_impl4hashEPKvmm(i8* %7, i64 %9, i64 3339675911)
+          to label %11 unwind label %aser.unreachable;>
+  %4 = alloca i8*, align 8
+ : {292}
+
+
+295
+<  %7 = call i64 @_ZNKSt4hashINSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEEEclERKS5_(%"struct.std::hash"* %4, %"class.std::__cxx11::basic_string"* dereferenceable(32) %6) #3;  %10 = invoke i64 @_ZNSt10_Hash_impl4hashEPKvmm(i8* %7, i64 %9, i64 3339675911)
+          to label %11 unwind label %aser.unreachable;>
+Offset:0
+ : {}
+
+
+296
+anonymous ptr : {295}
+
+
+297
+<  %7 = call i64 @_ZNKSt4hashINSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEEEclERKS5_(%"struct.std::hash"* %4, %"class.std::__cxx11::basic_string"* dereferenceable(32) %6) #3;  %10 = invoke i64 @_ZNSt10_Hash_impl4hashEPKvmm(i8* %7, i64 %9, i64 3339675911)
+          to label %11 unwind label %aser.unreachable;>
+  %5 = alloca i64, align 8
+ : {295}
+
+
+298
+<  %7 = call i64 @_ZNKSt4hashINSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEEEclERKS5_(%"struct.std::hash"* %4, %"class.std::__cxx11::basic_string"* dereferenceable(32) %6) #3;  %10 = invoke i64 @_ZNSt10_Hash_impl4hashEPKvmm(i8* %7, i64 %9, i64 3339675911)
+          to label %11 unwind label %aser.unreachable;>
+Offset:0
+ : {}
+
+
+299
+anonymous ptr : {298}
+
+
+300
+<  %7 = call i64 @_ZNKSt4hashINSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEEEclERKS5_(%"struct.std::hash"* %4, %"class.std::__cxx11::basic_string"* dereferenceable(32) %6) #3;  %10 = invoke i64 @_ZNSt10_Hash_impl4hashEPKvmm(i8* %7, i64 %9, i64 3339675911)
+          to label %11 unwind label %aser.unreachable;>
+  %6 = alloca i64, align 8
+ : {298}
+
+
+301
+<  %7 = call i64 @_ZNKSt4hashINSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEEEclERKS5_(%"struct.std::hash"* %4, %"class.std::__cxx11::basic_string"* dereferenceable(32) %6) #3;  %10 = invoke i64 @_ZNSt10_Hash_impl4hashEPKvmm(i8* %7, i64 %9, i64 3339675911)
+          to label %11 unwind label %aser.unreachable;>
+  %7 = load i8*, i8** %4, align 8
+ : {}
+
+
+302
+<empty>
+Offset:32
+ : {}
+
+
+303
+anonymous ptr : {302}
+
+
+304
+<empty>
+Offset:32
+ : {}
+
+
+305
+anonymous ptr : {304}
+
+
